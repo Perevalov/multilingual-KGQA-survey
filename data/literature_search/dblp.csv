@@ -1,0 +1,708 @@
+authors,title,abstract,publication_year,doi,url
+"Arijit Das and
+Diganta Saha","Deep learning based Bengali question answering system using semantic
+textual similarity",,2022,https://doi.org/10.1007/s11042-021-11228-w,https://doi.org/10.1007/s11042-021-11228-w
+"Yun Liu and
+Xiaoming Zhang and
+Feiran Huang and
+Bo Zhang and
+Zhoujun Li","Cross-Attentional Spatio-Temporal Semantic Graph Networks for Video
+Question Answering",,2022,https://doi.org/10.1109/TIP.2022.3142526,https://doi.org/10.1109/TIP.2022.3142526
+"Aleksandr Perevalov and
+Dennis Diefenbach and
+Ricardo Usbeck and
+Andreas Both","QALD-9-plus: {A} Multilingual Dataset for Question Answering over
+DBpedia and Wikidata Translated by Native Speakers",,2022,https://doi.org/10.1109/ICSC52841.2022.00045,https://doi.org/10.1109/ICSC52841.2022.00045
+"Aleksandr Perevalov and
+Axel{-}Cyrille Ngonga Ngomo and
+Andreas Both","Enhancing the Accessibility of Knowledge Graph Question Answering
+Systems through Multilingualization",,2022,https://doi.org/10.1109/ICSC52841.2022.00048,https://doi.org/10.1109/ICSC52841.2022.00048
+"Shen Gao and
+Yuchi Zhang and
+Yongliang Wang and
+Yang Dong and
+Xiuying Chen and
+Dongyan Zhao and
+Rui Yan","HeteroQA: Learning towards Question-and-Answering through Multiple
+Information Sources via Heterogeneous Graph Modeling",,2022,https://doi.org/10.1145/3488560.3498378,https://doi.org/10.1145/3488560.3498378
+"Aleksandr Perevalov and
+Dennis Diefenbach and
+Ricardo Usbeck and
+Andreas Both","QALD-9-plus: {A} Multilingual Dataset for Question Answering over
+DBpedia and Wikidata Translated by Native Speakers",,2022,,https://arxiv.org/abs/2202.00120
+Qianglong Chen,Semantic Sentence Composition Reasoning for Multi-Hop Question Answering,,2022,https://doi.org/10.48550/arXiv.2203.00160,https://doi.org/10.48550/arXiv.2203.00160
+"Mingxiao Li and
+Marie{-}Francine Moens","Dynamic Key-value Memory Enhanced Multi-step Graph Reasoning for Knowledge-based
+Visual Question Answering",,2022,https://doi.org/10.48550/arXiv.2203.02985,https://doi.org/10.48550/arXiv.2203.02985
+"Qi Lang and
+Xiaodong Liu and
+Yingjie Deng","Multi-level retrieval with semantic Axiomatic Fuzzy Set clustering
+for question answering",,2021,https://doi.org/10.1016/j.asoc.2021.107858,https://doi.org/10.1016/j.asoc.2021.107858
+"Mucheng Ren and
+Heyan Huang and
+Yang Gao","{SKR-QA:} Semantic ranking and knowledge revise for multi-choice question
+answering",,2021,https://doi.org/10.1016/j.neucom.2021.06.076,https://doi.org/10.1016/j.neucom.2021.06.076
+"Xi Zhu and
+Zhendong Mao and
+Zhineng Chen and
+Yangyang Li and
+Zhaohui Wang and
+Bin Wang","Object-difference drived graph convolutional networks for visual question
+answering",,2021,https://doi.org/10.1007/s11042-020-08790-0,https://doi.org/10.1007/s11042-020-08790-0
+"Mao Gu and
+Zhou Zhao and
+Weike Jin and
+Richang Hong and
+Fei Wu",Graph-Based Multi-Interaction Network for Video Question Answering,,2021,https://doi.org/10.1109/TIP.2021.3051756,https://doi.org/10.1109/TIP.2021.3051756
+"Lin Li and
+Miao Kong and
+Dong Li and
+Dong Zhou","A multi-granularity semantic space learning approach for cross-lingual
+open domain question answering",,2021,https://doi.org/10.1007/s11280-021-00879-2,https://doi.org/10.1007/s11280-021-00879-2
+"Jiayuan Zhang and
+Yifei Cai and
+Qian Zhang and
+Zehao Cao and
+Zhenrong Cheng and
+Dongmei Li and
+Xianghao Meng",Multi-Hop Reasoning for Question Answering with Knowledge Graph,,2021,https://doi.org/10.1109/ICIS51600.2021.9516865,https://doi.org/10.1109/ICIS51600.2021.9516865
+"Jianyu Cai and
+Zhanqiu Zhang and
+Feng Wu and
+Jie Wang","Deep Cognitive Reasoning Network for Multi-hop Question Answering
+over Knowledge Graphs",,2021,https://doi.org/10.18653/v1/2021.findings-acl.19,https://doi.org/10.18653/v1/2021.findings-acl.19
+"Weiwen Xu and
+Huihui Zhang and
+Deng Cai and
+Wai Lam","Dynamic Semantic Graph Construction and Reasoning for Explainable
+Multi-hop Science Question Answering",,2021,https://doi.org/10.18653/v1/2021.findings-acl.90,https://doi.org/10.18653/v1/2021.findings-acl.90
+"Ye Ji and
+Bohan Li and
+Yi Liu and
+Yuxin Zhang and
+Ken Cai",Multi-space Knowledge Enhanced Question Answering over Knowledge Graph,,2021,https://doi.org/10.1007/978-3-030-85899-5\_10,https://doi.org/10.1007/978-3-030-85899-5\_10
+"Zizheng Lin and
+Haowen Ke and
+Ngo{-}Yin Wong and
+Jiaxin Bai and
+Yangqiu Song and
+Huan Zhao and
+Junpeng Ye","Multi-Relational Graph based Heterogeneous Multi-Task Learning in
+Community Question Answering",,2021,https://doi.org/10.1145/3459637.3482279,https://doi.org/10.1145/3459637.3482279
+"Saurabh Srivastava and
+Mayur Patidar and
+Sudip Chowdhury and
+Puneet Agarwal and
+Indrajit Bhattacharya and
+Gautam Shroff","Complex Question Answering on knowledge graphs using machine translation
+and multi-task learning",,2021,https://doi.org/10.18653/v1/2021.eacl-main.300,https://doi.org/10.18653/v1/2021.eacl-main.300
+"Nick McKenna and
+Liane Guillou and
+Mohammad Javad Hosseini and
+Sander Bijl de Vroe and
+Mark Johnson and
+Mark Steedman",Multivalent Entailment Graphs for Question Answering,,2021,https://doi.org/10.18653/v1/2021.emnlp-main.840,https://doi.org/10.18653/v1/2021.emnlp-main.840
+"Jiaxin Shi and
+Shulin Cao and
+Lei Hou and
+Juanzi Li and
+Hanwang Zhang","TransferNet: An Effective and Transparent Framework for Multi-hop
+Question Answering over Relation Graph",,2021,https://doi.org/10.18653/v1/2021.emnlp-main.341,https://doi.org/10.18653/v1/2021.emnlp-main.341
+"Hanif Bhuiyan and
+Md. Abdul Karim and
+Faria Benta Karim and
+Jinat Ara","Semantic Improvement of Question-Answering System with Multi-Layer
+{LSTM}",,2021,https://doi.org/10.1007/978-3-030-86970-0\_24,https://doi.org/10.1007/978-3-030-86970-0\_24
+"Fuwei Zhang and
+Ruomei Wang and
+Songhua Xu and
+Fan Zhou","Fusing Temporally Distributed Multi-Modal Semantic Clues for Video
+Question Answering",,2021,https://doi.org/10.1109/ICME51207.2021.9428225,https://doi.org/10.1109/ICME51207.2021.9428225
+"Hongyu Ren and
+Hanjun Dai and
+Bo Dai and
+Xinyun Chen and
+Michihiro Yasunaga and
+Haitian Sun and
+Dale Schuurmans and
+Jure Leskovec and
+Denny Zhou","{LEGO:} Latent Execution-Guided Reasoning for Multi-Hop Question Answering
+on Knowledge Graphs",,2021,,http://proceedings.mlr.press/v139/ren21a.html
+"Yudong Han and
+Yangyang Guo and
+Jianhua Yin and
+Meng Liu and
+Yupeng Hu and
+Liqiang Nie",Focal and Composed Vision-semantic Modeling for Visual Question Answering,,2021,https://doi.org/10.1145/3474085.3475609,https://doi.org/10.1145/3474085.3475609
+"Jingjing Jiang and
+Ziyi Liu and
+Yifan Liu and
+Zhixiong Nan and
+Nanning Zheng","{X-GGM:} Graph Generative Modeling for Out-of-distribution Generalization
+in Visual Question Answering",,2021,https://doi.org/10.1145/3474085.3475350,https://doi.org/10.1145/3474085.3475350
+"Liang Peng and
+Shuangji Yang and
+Yi Bin and
+Guoqing Wang",Progressive Graph Attention Network for Video Question Answering,,2021,https://doi.org/10.1145/3474085.3475193,https://doi.org/10.1145/3474085.3475193
+"Yongjie Huang and
+Meng Yang",Breadth First Reasoning Graph for Multi-hop Question Answering,,2021,https://doi.org/10.18653/v1/2021.naacl-main.464,https://doi.org/10.18653/v1/2021.naacl-main.464
+"Yucheng Zhou and
+Xiubo Geng and
+Tao Shen and
+Wenqiang Zhang and
+Daxin Jiang","Improving Zero-Shot Cross-lingual Transfer for Multilingual Question
+Answering over Knowledge Graph",,2021,https://doi.org/10.18653/v1/2021.naacl-main.465,https://doi.org/10.18653/v1/2021.naacl-main.465
+"Andrei{-}Marius Avram and
+George{-}Eduard Zaharia and
+Dumitru{-}Clementin Cercel and
+Mihai Dascalu","{UPB} at SemEval-2021 Task 8: Extracting Semantic Information on Measurements
+as Multi-Turn Question Answering",,2021,https://doi.org/10.18653/v1/2021.semeval-1.65,https://doi.org/10.18653/v1/2021.semeval-1.65
+"Rajat Koner and
+Hang Li and
+Marcel Hildebrandt and
+Deepan Das and
+Volker Tresp and
+Stephan G{\""{u}}nnemann",Graphhopper: Multi-hop Scene Graph Reasoning for Visual Question Answering,,2021,https://doi.org/10.1007/978-3-030-88361-4\_7,https://doi.org/10.1007/978-3-030-88361-4\_7
+"Rui Yan and
+Weiheng Liao and
+Jianwei Cui and
+Hailei Zhang and
+Yichuan Hu and
+Dongyan Zhao","Multilingual {COVID-QA:} Learning towards Global Information Sharing
+via Web Question Answering in Multiple Languages",,2021,https://doi.org/10.1145/3442381.3449991,https://doi.org/10.1145/3442381.3449991
+"Cen Chen and
+Chengyu Wang and
+Minghui Qiu and
+Dehong Gao and
+Linbo Jin and
+Wang Li","Cross-domain Knowledge Distillation for Retrieval-based Question Answering
+Systems",,2021,https://doi.org/10.1145/3442381.3449814,https://doi.org/10.1145/3442381.3449814
+Yingting Li,"Counterfactual-Augmented Data for Multi-Hop Knowledge Base Question
+Answering",,2021,https://doi.org/10.1145/3442442.3453706,https://doi.org/10.1145/3442442.3453706
+"Andrei{-}Marius Avram and
+George{-}Eduard Zaharia and
+Dumitru{-}Clementin Cercel and
+Mihai Dascalu","{UPB} at SemEval-2021 Task 8: Extracting Semantic Information on Measurements
+as Multi-Turn Question Answering",,2021,,https://arxiv.org/abs/2104.04549
+"Jiaxin Shi and
+Shulin Cao and
+Lei Hou and
+Juanzi Li and
+Hanwang Zhang","TransferNet: An Effective and Transparent Framework for Multi-hop
+Question Answering over Relation Graph",,2021,,https://arxiv.org/abs/2104.07302
+"Nick McKenna and
+Liane Guillou and
+Mohammad Javad Hosseini and
+Sander Bijl de Vroe and
+Mark Steedman",Multivalent Entailment Graphs for Question Answering,,2021,,https://arxiv.org/abs/2104.07846
+"Yongqi Li and
+Wenjie Li and
+Liqiang Nie","A Graph-guided Multi-round Retrieval Method for Conversational Open-domain
+Question Answering",,2021,,https://arxiv.org/abs/2104.08443
+"Weiwen Xu and
+Huihui Zhang and
+Deng Cai and
+Wai Lam","Dynamic Semantic Graph Construction and Reasoning for Explainable
+Multi-hop Science Question Answering",,2021,,https://arxiv.org/abs/2105.11776
+"Rajat Koner and
+Hang Li and
+Marcel Hildebrandt and
+Deepan Das and
+Volker Tresp and
+Stephan G{\""{u}}nnemann",Graphhopper: Multi-Hop Scene Graph Reasoning for Visual Question Answering,,2021,,https://arxiv.org/abs/2107.06325
+"Zizheng Lin and
+Haowen Ke and
+Ngo{-}Yin Wong and
+Jiaxin Bai and
+Yangqiu Song and
+Huan Zhao and
+Junpeng Ye","Multi-Relational Graph based Heterogeneous Multi-Task Learning in
+Community Question Answering",,2021,,https://arxiv.org/abs/2110.02059
+"Weiqiang Jin and
+Hang Yu and
+Xi Tao and
+Ruiping Yin","Improving Embedded Knowledge Graph Multi-hop Question Answering by
+introducing Relational Chain Reasoning",,2021,,https://arxiv.org/abs/2110.12679
+"Guanglin Niu and
+Yang Li and
+Chengguang Tang and
+Zhongkai Hu and
+Shibin Yang and
+Peng Li and
+Chengyu Wang and
+Hao Wang and
+Jian Sun","Path-Enhanced Multi-Relational Question Answering with Knowledge Graph
+Embeddings",,2021,,https://arxiv.org/abs/2110.15622
+"Jianyun Zou and
+Min Yang and
+Lichao Zhang and
+Yechen Xu and
+Qifan Pan and
+Fengqing Jiang and
+Ran Qin and
+Shushu Wang and
+Yifan He and
+Songfang Huang and
+Zhou Zhao",A Chinese Multi-type Complex Questions Answering Dataset over Wikidata,,2021,,https://arxiv.org/abs/2111.06086
+"Junbin Xiao and
+Angela Yao and
+Zhiyuan Liu and
+Yicong Li and
+Wei Ji and
+Tat{-}Seng Chua",Video as Conditional Graph Hierarchy for Multi-Granular Question Answering,,2021,,https://arxiv.org/abs/2112.06197
+"Jianjian Cao and
+Xiameng Qin and
+Sanyuan Zhao and
+Jianbing Shen","Bilateral Cross-Modality Graph Matching Attention for Feature Fusion
+in Visual Question Answering",,2021,,https://arxiv.org/abs/2112.07270
+"Vishwajeet Kumar and
+Saneem A. Chemmengath and
+Yash Gupta and
+Jaydeep Sen and
+Samarth Bharadwaj and
+Soumen Chakrabarti","Multi-Instance Training for Question Answering Across Table and Linked
+Text",,2021,,https://arxiv.org/abs/2112.07337
+"Shen Gao and
+Yuchi Zhang and
+Yongliang Wang and
+Yang Dong and
+Xiuying Chen and
+Dongyan Zhao and
+Rui Yan","HeteroQA: Learning towards Question-and-Answering through Multiple
+Information Sources via Heterogeneous Graph Modeling",,2021,,https://arxiv.org/abs/2112.13597
+"Min Zhang and
+Feng Li and
+Yang Wang and
+Zequn Zhang and
+Yanhai Zhou and
+Xiaoyu Li","Coarse and Fine Granularity Graph Reasoning for Interpretable Multi-Hop
+Question Answering",,2020,https://doi.org/10.1109/ACCESS.2020.2981134,https://doi.org/10.1109/ACCESS.2020.2981134
+"Mehrdad Alizadeh and
+Barbara Di Eugenio","Incorporating Verb Semantic Information in Visual Question Answering
+Through Multitask Learning Paradigm",,2020,https://doi.org/10.1142/S1793351X20400085,https://doi.org/10.1142/S1793351X20400085
+"Xu Wang and
+Shuai Zhao and
+Bo Cheng and
+Jiale Han and
+Yingting Li and
+Hao Yang and
+Guoshun Nan","{HGMAN:} Multi-Hop and Multi-Answer Question Answering Based on Heterogeneous
+Knowledge Graph (Student Abstract)",,2020,,https://ojs.aaai.org/index.php/AAAI/article/view/7249
+"Zihan Xu and
+Hai{-}Tao Zheng and
+Shaopeng Zhai and
+Dong Wang","Knowledge and Cross-Pair Pattern Guided Semantic Matching for Question
+Answering",,2020,,https://ojs.aaai.org/index.php/AAAI/article/view/6478
+Xuanyu Zhang,"{CFGNN:} Cross Flow Graph Neural Networks for Question Answering on
+Complex Tables",,2020,,https://ojs.aaai.org/index.php/AAAI/article/view/6506
+"Xing David Wang and
+Leon Weber and
+Ulf Leser",Biomedical Event Extraction as Multi-turn Question Answering,,2020,https://doi.org/10.18653/v1/2020.louhi-1.10,https://doi.org/10.18653/v1/2020.louhi-1.10
+Mahmoud Khademi,Multimodal Neural Graph Memory Networks for Visual Question Answering,,2020,https://doi.org/10.18653/v1/2020.acl-main.643,https://doi.org/10.18653/v1/2020.acl-main.643
+"Yunshi Lan and
+Jing Jiang","Query Graph Generation for Answering Multi-hop Complex Questions from
+Knowledge Bases",,2020,https://doi.org/10.18653/v1/2020.acl-main.91,https://doi.org/10.18653/v1/2020.acl-main.91
+"Apoorv Saxena and
+Aditay Tripathi and
+Partha P. Talukdar","Improving Multi-hop Question Answering over Knowledge Graphs using
+Knowledge Base Embeddings",,2020,https://doi.org/10.18653/v1/2020.acl-main.412,https://doi.org/10.18653/v1/2020.acl-main.412
+"Qianglong Chen and
+Feng Ji and
+Haiqing Chen and
+Yin Zhang","Improving Commonsense Question Answering by Graph-based Iterative
+Retrieval over Multiple Knowledge Sources",,2020,https://doi.org/10.18653/v1/2020.coling-main.232,https://doi.org/10.18653/v1/2020.coling-main.232
+"Yuwei Fang and
+Siqi Sun and
+Zhe Gan and
+Rohit Pillai and
+Shuohang Wang and
+Jingjing Liu",Hierarchical Graph Network for Multi-hop Question Answering,,2020,https://doi.org/10.18653/v1/2020.emnlp-main.710,https://doi.org/10.18653/v1/2020.emnlp-main.710
+"Nan Shao and
+Yiming Cui and
+Ting Liu and
+Shijin Wang and
+Guoping Hu",Is Graph Structure Necessary for Multi-hop Question Answering?,,2020,https://doi.org/10.18653/v1/2020.emnlp-main.583,https://doi.org/10.18653/v1/2020.emnlp-main.583
+"Yaoyuan Liang and
+Xin Wang and
+Xuguang Duan and
+Wenwu Zhu","Multi-modal Contextual Graph Neural Network for Text Visual Question
+Answering",,2020,https://doi.org/10.1109/ICPR48806.2021.9412891,https://doi.org/10.1109/ICPR48806.2021.9412891
+"Jun Hu and
+Quan Fang and
+Shengsheng Qian and
+Changsheng Xu","Multi-modal Attentive Graph Pooling Model for Community Question Answer
+Matching",,2020,https://doi.org/10.1145/3394171.3413711,https://doi.org/10.1145/3394171.3413711
+"Raeid Saqur and
+Karthik Narasimhan","Multimodal Graph Networks for Compositional Generalization in Visual
+Question Answering",,2020,,https://proceedings.neurips.cc/paper/2020/hash/1fd6c4e41e2c6a6b092eb13ee72bce95-Abstract.html
+"Mehrdad Alizadeh and
+Barbara Di Eugenio","Augmenting Visual Question Answering with Semantic Frame Information
+in a Multitask Learning Approach",,2020,https://doi.org/10.1109/ICSC.2020.00013,https://doi.org/10.1109/ICSC.2020.00013
+"Wenxuan Zhang and
+Yang Deng and
+Wai Lam","Answer Ranking for Product-Related Questions via Multiple Semantic
+Relations Modeling",,2020,https://doi.org/10.1145/3397271.3401166,https://doi.org/10.1145/3397271.3401166
+"Nhuan D. To and
+Marek Reformat","Question-Answering System with Linguistic Terms over {RDF} Knowledge
+Graphs",,2020,https://doi.org/10.1109/SMC42975.2020.9282949,https://doi.org/10.1109/SMC42975.2020.9282949
+"Yunqi Qiu and
+Yuanzhuo Wang and
+Xiaolong Jin and
+Kun Zhang","Stepwise Reasoning for Multi-Relation Question Answering over Knowledge
+Graph with Weak Supervision",,2020,https://doi.org/10.1145/3336191.3371812,https://doi.org/10.1145/3336191.3371812
+"Ze Yang and
+Linjun Shou and
+Ming Gong and
+Wutao Lin and
+Daxin Jiang","Model Compression with Two-stage Multi-teacher Knowledge Distillation
+for Web Question Answering System",,2020,https://doi.org/10.1145/3336191.3371792,https://doi.org/10.1145/3336191.3371792
+"Yuqing Xie and
+Wei Yang and
+Luchen Tan and
+Kun Xiong and
+Nicholas Jing Yuan and
+Baoxing Huai and
+Ming Li and
+Jimmy Lin","Distant Supervision for Multi-Stage Fine-Tuning in Retrieval-Based
+Question Answering",,2020,https://doi.org/10.1145/3366423.3380060,https://doi.org/10.1145/3366423.3380060
+"Mehrdad Alizadeh and
+Barbara Di Eugenio","Augmenting Visual Question Answering with Semantic Frame Information
+in a Multitask Learning Approach",,2020,,https://arxiv.org/abs/2001.11673
+Guanming Xiong,Fine-tuning Multi-hop Question Answering with Hierarchical Graph Network,,2020,,https://arxiv.org/abs/2004.13821
+"Wenxuan Zhang and
+Yang Deng and
+Wai Lam","Answer Ranking for Product-Related Questions via Multiple Semantic
+Relations Modeling",,2020,,https://arxiv.org/abs/2006.15599
+"Qianglong Chen and
+Feng Ji and
+Haiqing Chen and
+Yin Zhang","Improving Commonsense Question Answering by Graph-based Iterative
+Retrieval over Multiple Knowledge Sources",,2020,,https://arxiv.org/abs/2011.02705
+Sherzod Hakimov,"Learning Multilingual Semantic Parsers for Question Answering over
+Linked Data. {A} comparison of neural and probabilistic graphical
+model architectures",,2019,,https://pub.uni-bielefeld.de/record/2935619
+"Lei Sang and
+Min Xu and
+Shengsheng Qian and
+Xindong Wu","Multi-modal multi-view Bayesian semantic embedding for community question
+answering",,2019,https://doi.org/10.1016/j.neucom.2018.12.067,https://doi.org/10.1016/j.neucom.2018.12.067
+"Denis Andrei de Ara{\'{u}}jo and
+Sandro Jos{\'{e}} Rigo and
+Bruna Koch Schmitt and
+Alencar Hentges","A linguistic approach to short sentences keywords identification for
+a question answering system",,2019,https://doi.org/10.1504/IJWET.2019.105593,https://doi.org/10.1504/IJWET.2019.105593
+"Qun Li and
+Fu Xiao and
+Le An and
+Xianzhong Long and
+Xiaochuan Sun",Semantic Concept Network and Deep Walk-based Visual Question Answering,,2019,https://doi.org/10.1145/3300938,https://doi.org/10.1145/3300938
+"Daesik Kim and
+Seonhoon Kim and
+Nojun Kwak","Textbook Question Answering with Multi-modal Context Graph Understanding
+and Self-supervised Open-set Comprehension",,2019,https://doi.org/10.18653/v1/p19-1347,https://doi.org/10.18653/v1/p19-1347
+"Zhengwei Zhao and
+Xiaodong Wang and
+Xiaowei Xu and
+Qing Wang",Multi-Modal Question Answering System Driven by Domain Knowledge Graph,,2019,https://doi.org/10.1109/BIGCOM.2019.00015,https://doi.org/10.1109/BIGCOM.2019.00015
+"Qi Song and
+Mohammad Hossein Namaki and
+Yinghui Wu",Answering Why-Questions for Subgraph Queries in Multi-attributed Graphs,,2019,https://doi.org/10.1109/ICDE.2019.00013,https://doi.org/10.1109/ICDE.2019.00013
+"Qiang Huang and
+Jianhui Bu and
+Weijian Xie and
+Shengwen Yang and
+Weijia Wu and
+Liping Liu","Multi-task Sentence Encoding Model for Semantic Retrieval in Question
+Answering Systems",,2019,https://doi.org/10.1109/IJCNN.2019.8852327,https://doi.org/10.1109/IJCNN.2019.8852327
+"Wafa Wali and
+Fatma Ghorbel and
+Bilel Gargouri and
+Fay{\c{c}}al Hamdi and
+Elisabeth M{\'{e}}tais","A Multilingual Semantic Similarity-Based Approach for Question-Answering
+Systems",,2019,https://doi.org/10.1007/978-3-030-29551-6\_54,https://doi.org/10.1007/978-3-030-29551-6\_54
+"Jun Hu and
+Shengsheng Qian and
+Quan Fang and
+Changsheng Xu","Hierarchical Graph Semantic Pooling Network for Multi-modal Community
+Question Answer Matching",,2019,https://doi.org/10.1145/3343031.3350966,https://doi.org/10.1145/3343031.3350966
+"Yu Cao and
+Meng Fang and
+Dacheng Tao","{BAG:} Bi-directional Attention Entity Graph Convolutional Network
+for Multi-hop Reasoning Question Answering",,2019,https://doi.org/10.18653/v1/n19-1032,https://doi.org/10.18653/v1/n19-1032
+"Xiaolu Lu and
+Soumajit Pramanik and
+Rishiraj Saha Roy and
+Abdalghani Abujabal and
+Yafang Wang and
+Gerhard Weikum","Answering Complex Questions by Joining Multi-Document Evidence with
+Quasi Knowledge Graphs",,2019,https://doi.org/10.1145/3331184.3331252,https://doi.org/10.1145/3331184.3331252
+"Mokanarangan Thayaparan and
+Marco Valentino and
+Viktor Schlegel and
+Andr{\'{e}} Freitas","Identifying Supporting Facts for Multi-hop Question Answering with
+Document Graph Networks",,2019,https://doi.org/10.18653/v1/D19-5306,https://doi.org/10.18653/v1/D19-5306
+"Andreas R{\""{u}}ckl{\'{e}} and
+Krishnkant Swarnkar and
+Iryna Gurevych",Improved Cross-Lingual Question Retrieval for Community Question Answering,,2019,https://doi.org/10.1145/3308558.3313502,https://doi.org/10.1145/3308558.3313502
+"Tiago Santos and
+Simon Walk and
+Roman Kern and
+Markus Strohmaier and
+Denis Helic","Self- and Cross-Excitation in Stack Exchange Question {\&} Answer
+Communities",,2019,https://doi.org/10.1145/3308558.3313440,https://doi.org/10.1145/3308558.3313440
+"Yu Cao and
+Meng Fang and
+Dacheng Tao","{BAG:} Bi-directional Attention Entity Graph Convolutional Network
+for Multi-hop Reasoning Question Answering",,2019,,http://arxiv.org/abs/1904.04969
+"Ze Yang and
+Linjun Shou and
+Ming Gong and
+Wutao Lin and
+Daxin Jiang","Model Compression with Multi-Task Knowledge Distillation for Web-scale
+Question Answering System",,2019,,http://arxiv.org/abs/1904.09636
+"Xiaolu Lu and
+Soumajit Pramanik and
+Rishiraj Saha Roy and
+Abdalghani Abujabal and
+Yafang Wang and
+Gerhard Weikum","Answering Complex Questions by Joining Multi-Document Evidence with
+Quasi Knowledge Graphs",,2019,,http://arxiv.org/abs/1908.00469
+"Mokanarangan Thayaparan and
+Marco Valentino and
+Viktor Schlegel and
+Andr{\'{e}} Freitas","Identifying Supporting Facts for Multi-hop Question Answering with
+Document Graph Networks",,2019,,http://arxiv.org/abs/1910.00290
+"Ze Yang and
+Linjun Shou and
+Ming Gong and
+Wutao Lin and
+Daxin Jiang","Model Compression with Two-stage Multi-teacher Knowledge Distillation
+for Web Question Answering System",,2019,,http://arxiv.org/abs/1910.08381
+"Yuwei Fang and
+Siqi Sun and
+Zhe Gan and
+Rohit Pillai and
+Shuohang Wang and
+Jingjing Liu",Hierarchical Graph Network for Multi-hop Question Answering,,2019,,http://arxiv.org/abs/1911.03631
+"Li Zhou and
+Kevin Small","Multi-domain Dialogue State Tracking as Dynamic Knowledge Graph Enhanced
+Question Answering",,2019,,http://arxiv.org/abs/1911.06192
+"Qiang Huang and
+Jianhui Bu and
+Weijian Xie and
+Shengwen Yang and
+Weijia Wu and
+Liping Liu","Multi-task Sentence Encoding Model for Semantic Retrieval in Question
+Answering Systems",,2019,,http://arxiv.org/abs/1911.07405
+"Meng Wang and
+Weitong Chen and
+Sen Wang and
+Jun Liu and
+Xue Li and
+Bela Stantic",Answering why-not questions on semantic multimedia queries,,2018,https://doi.org/10.1007/s11042-017-5151-6,https://doi.org/10.1007/s11042-017-5151-6
+"Zhenguang Liu and
+Yingjie Xia and
+Qi Liu and
+Qinming He and
+Chao Zhang and
+Roger Zimmermann","Toward Personalized Activity Level Prediction in Community Question
+Answering Websites",,2018,https://doi.org/10.1145/3187011,https://doi.org/10.1145/3187011
+"Jingyao Zhang and
+Yuncheng Hua and
+Guilin Qi and
+Daiqing Qi",Semantic Parsing for Multiple-relation Chinese Question Answering,,2018,,http://ceur-ws.org/Vol-2242/paper15.pdf
+"Jiwei Ding and
+Yuan Wang and
+Wei Hu and
+Linfeng Shi and
+Yuzhong Qu","Answering Multiple-Choice Questions in Geographical Gaokao with a
+Concept Graph",,2018,https://doi.org/10.1007/978-3-319-93417-4\_11,https://doi.org/10.1007/978-3-319-93417-4\_11
+"Thomas Pellissier Tanon and
+Marcos Dias de Assun{\c{c}}{\~{a}}o and
+Eddy Caron and
+Fabian M. Suchanek","Demoing Platypus - {A} Multilingual Question Answering Platform for
+Wikidata",,2018,https://doi.org/10.1007/978-3-319-98192-5\_21,https://doi.org/10.1007/978-3-319-98192-5\_21
+"Sherzod Hakimov and
+Soufian Jebbara and
+Philipp Cimiano","{AMUSE:} Multilingual Semantic Parsing for Question Answering over
+Linked Data",,2018,,http://arxiv.org/abs/1802.09296
+"Liangfu Cao and
+Lianli Gao and
+Jingkuan Song and
+Xing Xu and
+Heng Tao Shen","Jointly Learning Attentions with Semantic Cross-Modal Correlation
+for Visual Question Answering",,2017,https://doi.org/10.1007/978-3-319-68155-9\_19,https://doi.org/10.1007/978-3-319-68155-9\_19
+"Sherzod Hakimov and
+Soufian Jebbara and
+Philipp Cimiano","{AMUSE:} Multilingual Semantic Parsing for Question Answering over
+Linked Data",,2017,https://doi.org/10.1007/978-3-319-68288-4\_20,https://doi.org/10.1007/978-3-319-68288-4\_20
+"Huadong Li and
+Yafang Wang and
+Gerard de Melo and
+Changhe Tu and
+Baoquan Chen","Multimodal Question Answering over Structured Data with Ambiguous
+Entities",,2017,https://doi.org/10.1145/3041021.3054135,https://doi.org/10.1145/3041021.3054135
+"Jun Araki and
+Dheeraj Rajagopal and
+Sreecharan Sankaranarayanan and
+Susan Holm and
+Yukari Yamakawa and
+Teruko Mitamura","Generating Questions and Multiple-Choice Answers using Semantic Analysis
+of Texts",,2016,,https://aclanthology.org/C16-1107/
+Amir Pouran Ben Veyseh,Cross-Lingual Question Answering Using Common Semantic Space,,2016,https://doi.org/10.18653/v1/w16-1403,https://doi.org/10.18653/v1/w16-1403
+"George Gkotsis and
+Maria Liakata and
+Karen Stepanyan and
+John Domingue","{ACQUA:} Automated Community-based Question Answering through the
+Discretisation of Shallow Linguistic Features",,2015,https://doi.org/10.1561/106.00000001,https://doi.org/10.1561/106.00000001
+"Melissa G. Ocepek and
+Lynn Westbrook","Question, answer, compare: a cross-category comparison of answers
+on question and answer websites",,2015,https://doi.org/10.1080/13614568.2015.1036134,https://doi.org/10.1080/13614568.2015.1036134
+Marta Gatius,"Adaptive Generation of Multilingual Questions and Answers from Web
+Content",,2015,https://doi.org/10.1109/DEXA.2015.72,https://doi.org/10.1109/DEXA.2015.72
+Mathieu{-}Henri Falco,"R{\'{e}}pondre {\`{a}} des questions {\`{a}} r{\'{e}}ponses multiples
+sur le Web. (Answering multiple answer questions from the Web)",,2014,,https://tel.archives-ouvertes.fr/tel-01015869
+"Siva Reddy and
+Mirella Lapata and
+Mark Steedman",Large-scale Semantic Parsing without Question-Answer Pairs,,2014,,https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/398
+"Hong Sun and
+Furu Wei and
+Ming Zhou","Answer Extraction with Multiple Extraction Engines for Web-Based Question
+Answering",,2014,https://doi.org/10.1007/978-3-662-45924-9\_29,https://doi.org/10.1007/978-3-662-45924-9\_29
+"Elena Cabrio and
+Julien Cojan and
+Fabien Gandon","Mind the Cultural Gap: Bridging Language-Specific DBpedia Chapters
+for Question Answering",,2014,https://doi.org/10.1007/978-3-662-43585-4\_9,https://doi.org/10.1007/978-3-662-43585-4\_9
+"Liqiang Nie and
+Meng Wang and
+Yue Gao and
+Zheng{-}Jun Zha and
+Tat{-}Seng Chua",Beyond Text {QA:} Multimedia Answer Generation by Harvesting Web Information,,2013,https://doi.org/10.1109/TMM.2012.2229971,https://doi.org/10.1109/TMM.2012.2229971
+"Elena Cabrio and
+Philipp Cimiano and
+Vanessa L{\'{o}}pez and
+Axel{-}Cyrille Ngonga Ngomo and
+Christina Unger and
+Sebastian Walter",{QALD-3:} Multilingual Question Answering over Linked Data,,2013,,http://ceur-ws.org/Vol-1179/CLEF2013wn-QALD3-CabrioEt2013.pdf
+"Philipp Cimiano and
+Vanessa L{\'{o}}pez and
+Christina Unger and
+Elena Cabrio and
+Axel{-}Cyrille Ngonga Ngomo and
+Sebastian Walter",Multilingual Question Answering over Linked Data {(QALD-3):} Lab Overview,,2013,https://doi.org/10.1007/978-3-642-40802-1\_30,https://doi.org/10.1007/978-3-642-40802-1\_30
+"Julien Cojan and
+Elena Cabrio and
+Fabien Gandon","Filling the gaps among DBpedia multilingual chapters for question
+answering",,2013,https://doi.org/10.1145/2464464.2464500,https://doi.org/10.1145/2464464.2464500
+"Matthias Wendt and
+Martin Gerlach and
+Holger D{\""{u}}wiger",Linguistic Modeling of Linked Open Data for Question Answering,,2012,https://doi.org/10.1007/978-3-662-46641-4\_8,https://doi.org/10.1007/978-3-662-46641-4\_8
+"Matthias Wendt and
+Martin Gerlach and
+Holger D{\""{u}}wiger",Linguistic Modeling of Linked Open Data for Question Answering,,2012,,http://ceur-ws.org/Vol-913/06\_ILD2012.pdf
+"Mihai Surdeanu and
+Massimiliano Ciaramita and
+Hugo Zaragoza",Learning to Rank Answers to Non-Factoid Questions from Web Collections,,2011,https://doi.org/10.1162/COLI\_a\_00051,https://doi.org/10.1162/COLI\_a\_00051
+"{\'{O}}scar Ferr{\'{a}}ndez and
+Christian Spurk and
+Milen Kouylekov and
+Iustin Dornescu and
+Sergio Ferr{\'{a}}ndez and
+Matteo Negri and
+Rub{\'{e}}n Izquierdo and
+David Tom{\'{a}}s and
+Constantin Orasan and
+Guenter Neumann and
+Bernardo Magnini and
+Jos{\'{e}} Luis Vicedo Gonz{\'{a}}lez","The {QALL-ME} Framework: {A} specifiable-domain multilingual Question
+Answering architecture",,2011,https://doi.org/10.1016/j.websem.2011.01.002,https://doi.org/10.1016/j.websem.2011.01.002
+"Mar{\'{\i}}a{-}Dolores Olvera{-}Lobo and
+Juncal Guti{\'{e}}rrez{-}Artacho","Multilingual Question-Answering System in Biomedical Domain on the
+Web: An Evaluation",,2011,https://doi.org/10.1007/978-3-642-23708-9\_10,https://doi.org/10.1007/978-3-642-23708-9\_10
+"Guangda Li and
+Haojie Li and
+Zhaoyan Ming and
+Richang Hong and
+Sheng Tang and
+Tat{-}Seng Chua",Question Answering over Community-Contributed Web Videos,,2010,https://doi.org/10.1109/MMUL.2010.47,https://doi.org/10.1109/MMUL.2010.47
+Matthew W. Bilotti,"Linguistic and semantic passage retrieval strategies for question
+answering",,2010,https://doi.org/10.1145/1924475.1924495,https://doi.org/10.1145/1924475.1924495
+"Matthew W. Bilotti and
+Jonathan L. Elsas and
+Jaime G. Carbonell and
+Eric Nyberg","Rank learning for factoid question answering with linguistic and semantic
+constraints",,2010,https://doi.org/10.1145/1871437.1871498,https://doi.org/10.1145/1871437.1871498
+Andrea Andrenucci,"Creating a Bilingual Psychology Lexicon for Cross Lingual Question
+Answering - {A} Follow up Study",,2010,,
+"Tat{-}Seng Chua and
+Richang Hong and
+Guangda Li and
+Jinhui Tang","From text question-answering to multimedia {QA} on web-scale media
+resources",,2009,https://doi.org/10.1145/1631058.1631069,https://doi.org/10.1145/1631058.1631069
+"Elena Cabrio and
+Milen Kouylekov and
+Bernardo Magnini and
+Matteo Negri and
+Laura Hasler and
+Constantin Orasan and
+David Tom{\'{a}}s and
+Jos{\'{e}} Luis Vicedo Gonz{\'{a}}lez and
+Guenter Neumann and
+Corinna Weber","The {QALL-ME} Benchmark: a Multilingual Resource of Annotated Spoken
+Requests for Question Answering",,2008,,http://www.lrec-conf.org/proceedings/lrec2008/summaries/628.html
+"Rahmad Mahendra and
+Septina Dian Larasati and
+Ruli Manurung","Extending an Indonesian Semantic Analysis-based Question Answering
+System with Linguistic and World Knowledge Axioms",,2008,,https://aclanthology.org/Y08-1026/
+"Tatsunori Mori and
+Kousuke Takahashi","A Method of Cross-Lingual Question-Answering Based on Machine Translation
+and Noun Phrase Translation using Web documents - Yokohama National
+University at {NTCIR-6} {CLQA}",,2007,,http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings6/NTCIR/34.pdf
+"Rita M. Aceves{-}P{\'{e}}rez and
+Manuel Montes{-}y{-}G{\'{o}}mez and
+Luis Villase{\~{n}}or Pineda",Graph-Based Answer Fusion in Multilingual Question Answering,,2007,https://doi.org/10.1007/978-3-540-74628-7\_80,https://doi.org/10.1007/978-3-540-74628-7\_80
+"Rawia Awadallah and
+Andreas Rauber","Web-Based Multiple Choice Question Answering for English and Arabic
+Questions",,2006,https://doi.org/10.1007/11735106\_54,https://doi.org/10.1007/11735106\_54
+"Borja Navarro and
+Lorenza Moreno and
+Sonia V{\'{a}}zquez and
+Fernando Llopis and
+Andr{\'{e}}s Montoyo and
+Miguel Angel Var{\'{o}}","Improving Interaction with the User in Cross-Language Question Answering
+through Relevant Domains and Syntactic Semantic Patterns",,2004,,http://ceur-ws.org/Vol-1170/CLEF2004wn-iCLEF-NavarroEt2004.pdf
+"Borja Navarro and
+Lorenza Moreno and
+Sonia V{\'{a}}zquez and
+Fernando Llopis and
+Andr{\'{e}}s Montoyo and
+Miguel Angel Var{\'{o}}","Improving Interaction with the User in Cross-Language Question Answering
+Through Relevant Domains and Syntactic Semantic Patterns",,2004,https://doi.org/10.1007/11519645\_34,https://doi.org/10.1007/11519645\_34
+"Hristo Tanev and
+Milen Kouylekov and
+Bernardo Magnini","Combining Linguistic Processing and Web Mining for Question Answering:
+ITC-irst at {TREC} 2004",,2004,,http://trec.nist.gov/pubs/trec13/papers/itc-irst-tanev.web.qa.pdf
+"Jochen L. Leidner and
+Tiphaine Dalmas and
+Bonnie L. Webber and
+Johan Bos and
+Claire Grover","Automatic Multi-Layer Corpus Annotation for Evaluation Question Answering
+Methods: CBC4Kids",,2003,,https://aclanthology.org/W03-2406/
+"Charles L. A. Clarke and
+Gordon V. Cormack and
+Thomas R. Lynam and
+C. M. Li and
+G. L. McLearn","Web Reinforced Question Answering (MultiTest Experiments for {TREC}
+2001)",,2001,,http://trec.nist.gov/pubs/trec10/papers/mtA.pdf
+"Kui{-}Lam Kwok and
+Laszlo Grunfeld and
+Norbert Dinstl and
+M. Chan","{TREC2001} Question-Answer, Web and Cross Language Experiments using
+{PIRCS}",,2001,,http://trec.nist.gov/pubs/trec10/papers/queenst2001.pdf
+"Kui{-}Lam Kwok and
+Laszlo Grunfeld and
+Norbert Dinstl and
+M. Chan","{TREC-9} Cross Language, Web and Question-Answering Track Experiments
+using {PIRCS}",,2000,,http://trec.nist.gov/pubs/trec9/papers/pircst9.pdf
+"Michael G. Main and
+David B. Benson","Denotational Semantics for ""Natural"" Language Question-Answering Programs",,1983,,

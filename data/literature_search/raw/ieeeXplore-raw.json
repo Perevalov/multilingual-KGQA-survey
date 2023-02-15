@@ -1,0 +1,2462 @@
+{
+    "userInfo": {
+        "institute": false,
+        "member": false,
+        "individual": false,
+        "guest": false,
+        "subscribedContent": false,
+        "fileCabinetContent": false,
+        "fileCabinetUser": false,
+        "institutionalFileCabinetUser": false,
+        "ip": "2a02:2454:adb:b600:bbbe:eb8a:ad54:6671",
+        "showPatentCitations": true,
+        "showGet802Link": false
+    },
+    "records": [
+        {
+            "authors": [
+                {
+                    "preferredName": "Elizaveta Zimina",
+                    "normalizedName": "E. Zimina",
+                    "firstName": "Elizaveta",
+                    "lastName": "Zimina",
+                    "searchablePreferredName": "Elizaveta Zimina",
+                    "id": 37086827177
+                },
+                {
+                    "preferredName": "Jyrki Nummenmaa",
+                    "normalizedName": "J. Nummenmaa",
+                    "firstName": "Jyrki",
+                    "lastName": "Nummenmaa",
+                    "searchablePreferredName": "Jyrki Nummenmaa",
+                    "id": 37402408200
+                },
+                {
+                    "preferredName": "Kalervo Jarvelin",
+                    "normalizedName": "K. Jarvelin",
+                    "firstName": "Kalervo",
+                    "lastName": "Jarvelin",
+                    "searchablePreferredName": "Kalervo Jarvelin",
+                    "id": 38163724100
+                },
+                {
+                    "preferredName": "Jaakko Peltonen",
+                    "normalizedName": "J. Peltonen",
+                    "firstName": "Jaakko",
+                    "lastName": "Peltonen",
+                    "searchablePreferredName": "Jaakko Peltonen",
+                    "id": 37410843300
+                },
+                {
+                    "preferredName": "Kostas Stefanidis",
+                    "normalizedName": "K. Stefanidis",
+                    "firstName": "Kostas",
+                    "lastName": "Stefanidis",
+                    "searchablePreferredName": "Kostas Stefanidis",
+                    "id": 37394027000
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+            },
+            "publicationYear": "2018",
+            "publicationNumber": "8699005",
+            "documentLink": "/document/8706310/",
+            "articleNumber": "8706310",
+            "doi": "10.1109/PIC.2018.8706310",
+            "citationCount": 1,
+            "isNumber": "8706130",
+            "publicationLink": "/xpl/conhome/8699005/proceeding",
+            "ephemera": false,
+            "vj": false,
+            "pdfSize": "726",
+            "startPage": "57",
+            "endPage": "61",
+            "publicationDate": "14-16 Dec. 2018",
+            "rightslinkFlag": true,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=MuG-QA%3A+Multilingual+Grammatical+Question+Answering+for+RDF+Data&isbn=null&publicationDate=14-16+Dec.+2018&author=Elizaveta+Zimina%3B+Jyrki+Nummenmaa%3B+Kalervo+Jarvelin%3B+Jaakko+Peltonen%3B+Kostas+Stefanidis&ContentID=10.1109/PIC.2018.8706310&orderBeanReset=true&startPage=57&endPage=61&proceedingName=2018+IEEE+International+Conference+on+Progress+in+Informatics+and+Computing+%28PIC%29",
+            "articleTitle": "MuG-QA: Multilingual Grammatical Question Answering for RDF Data",
+            "downloadCount": 82,
+            "htmlLink": "/document/8706310/",
+            "citationsLink": "/document/8706310/citations?tabFilter=papers",
+            "showHtml": true,
+            "graphicalAbstract": {},
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "publisher": "IEEE",
+            "redline": false,
+            "showCheckbox": true,
+            "handleProduct": false,
+            "contentType": "IEEE Conferences",
+            "publicationTitle": "2018 IEEE International Conference on Progress in Informatics and Computing (PIC)",
+            "displayPublicationTitle": "2018 IEEE International Conference on Progress in Informatics and Computing (PIC)",
+            "abstract": "We introduce [::Multilingual::] Grammatical [::Question Answering::] (MuG-[::QA::]), a system for answering questions in the English, German, Italian and French languages over [::DBpedia::]. The natural language modelling and parsing is implemented using Grammatical Framework (GF), a grammar formalism having natural support for [::multilinguality::]. The question analysis is based on forming an ab...",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8706310",
+            "highlightedTitle": "MuG-[::QA::]: [::Multilingual::] Grammatical [::Question Answering::] for [::RDF::] Data",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "docIdentifier": "IEEE Conferences",
+            "displayContentType": "Conference Paper"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Xiangzhou Huang",
+                    "normalizedName": "X. Huang",
+                    "firstName": "Xiangzhou",
+                    "lastName": "Huang",
+                    "searchablePreferredName": "Xiangzhou Huang",
+                    "id": 37085647067
+                },
+                {
+                    "preferredName": "Baogang Wei",
+                    "normalizedName": "B. Wei",
+                    "firstName": "Baogang",
+                    "lastName": "Wei",
+                    "searchablePreferredName": "Baogang Wei",
+                    "id": 37273269600
+                },
+                {
+                    "preferredName": "Yin Zhang",
+                    "normalizedName": "Y. Zhang",
+                    "firstName": "Yin",
+                    "lastName": "Zhang",
+                    "searchablePreferredName": "Yin Zhang",
+                    "id": 37310466500
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+            },
+            "publicationYear": "2015",
+            "publicationNumber": "7381086",
+            "documentLink": "/document/7383065/",
+            "articleNumber": "7383065",
+            "doi": "10.1109/ISKE.2015.78",
+            "citationCount": 3,
+            "isNumber": "7383005",
+            "publicationLink": "/xpl/conhome/7381086/proceeding",
+            "ephemera": false,
+            "vj": false,
+            "pdfSize": "393",
+            "startPage": "314",
+            "endPage": "317",
+            "publicationDate": "24-27 Nov. 2015",
+            "rightslinkFlag": true,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Automatic+Question-Answering+Based+on+Wikipedia+Data+Extraction&isbn=null&publicationDate=24-27+Nov.+2015&author=Xiangzhou+Huang%3B+Baogang+Wei%3B+Yin+Zhang&ContentID=10.1109/ISKE.2015.78&orderBeanReset=true&startPage=314&endPage=317&proceedingName=2015+10th+International+Conference+on+Intelligent+Systems+and+Knowledge+Engineering+%28ISKE%29",
+            "articleTitle": "Automatic Question-Answering Based on Wikipedia Data Extraction",
+            "downloadCount": 304,
+            "htmlLink": "/document/7383065/",
+            "citationsLink": "/document/7383065/citations?tabFilter=papers",
+            "showHtml": true,
+            "graphicalAbstract": {},
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "publisher": "IEEE",
+            "redline": false,
+            "showCheckbox": true,
+            "handleProduct": false,
+            "contentType": "IEEE Conferences",
+            "publicationTitle": "2015 10th International Conference on Intelligent Systems and Knowledge Engineering (ISKE)",
+            "displayPublicationTitle": "2015 10th International Conference on Intelligent Systems and Knowledge Engineering (ISKE)",
+            "abstract": "The [::question-answering::] ([::QA::]) system plays a vital role in artificial intelligence. The goal of automatic [::QA::] is to find out correct answers to the natural language questions raised by users from some specified datasets. Data on the Web is about everything and contains almost all the answers we needed. Wikipedia is a collaboratively edited, [::multilingual::], free Internet encyclop...",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=7383065",
+            "highlightedTitle": "Automatic [::Question-Answering::] Based on Wikipedia Data Extraction",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "docIdentifier": "IEEE Conferences",
+            "displayContentType": "Conference Paper"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Aleksandr Perevalov",
+                    "normalizedName": "A. Perevalov",
+                    "firstName": "Aleksandr",
+                    "lastName": "Perevalov",
+                    "searchablePreferredName": "Aleksandr Perevalov",
+                    "id": 37089339715
+                },
+                {
+                    "preferredName": "Dennis Diefenbach",
+                    "normalizedName": "D. Diefenbach",
+                    "firstName": "Dennis",
+                    "lastName": "Diefenbach",
+                    "searchablePreferredName": "Dennis Diefenbach",
+                    "id": 37085803712
+                },
+                {
+                    "preferredName": "Ricardo Usbeck",
+                    "normalizedName": "R. Usbeck",
+                    "firstName": "Ricardo",
+                    "lastName": "Usbeck",
+                    "searchablePreferredName": "Ricardo Usbeck",
+                    "id": 37087688609
+                },
+                {
+                    "preferredName": "Andreas Both",
+                    "normalizedName": "A. Both",
+                    "firstName": "Andreas",
+                    "lastName": "Both",
+                    "searchablePreferredName": "Andreas Both",
+                    "id": 37647668800
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+            },
+            "publicationYear": "2022",
+            "publicationNumber": "9736194",
+            "documentLink": "/document/9736271/",
+            "articleNumber": "9736271",
+            "doi": "10.1109/ICSC52841.2022.00045",
+            "citationCount": 0,
+            "isNumber": "9736265",
+            "publicationLink": "/xpl/conhome/9736194/proceeding",
+            "ephemera": false,
+            "vj": false,
+            "pdfSize": "122",
+            "startPage": "229",
+            "endPage": "234",
+            "publicationDate": "26-28 Jan. 2022",
+            "rightslinkFlag": true,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=QALD-9-plus%3A+A+Multilingual+Dataset+for+Question+Answering+over+DBpedia+and+Wikidata+Translated+by+Native+Speakers&isbn=null&publicationDate=26-28+Jan.+2022&author=Aleksandr+Perevalov%3B+Dennis+Diefenbach%3B+Ricardo+Usbeck%3B+Andreas+Both&ContentID=10.1109/ICSC52841.2022.00045&orderBeanReset=true&startPage=229&endPage=234&proceedingName=2022+IEEE+16th+International+Conference+on+Semantic+Computing+%28ICSC%29",
+            "articleTitle": "QALD-9-plus: A Multilingual Dataset for Question Answering over DBpedia and Wikidata Translated by Native Speakers",
+            "downloadCount": 0,
+            "htmlLink": "/document/9736271/",
+            "showHtml": true,
+            "graphicalAbstract": {},
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "publisher": "IEEE",
+            "redline": false,
+            "showCheckbox": true,
+            "handleProduct": false,
+            "contentType": "IEEE Conferences",
+            "publicationTitle": "2022 IEEE 16th International Conference on Semantic Computing (ICSC)",
+            "displayPublicationTitle": "2022 IEEE 16th International Conference on Semantic Computing (ICSC)",
+            "abstract": "The ability to have the same experience for different user groups (i.e., accessibility) is one of the most important characteristics of Web-based systems. The same is true for [::Knowledge Graph::] [::Question Answering::] ([::KGQA::]) systems that provide the access to [::Semantic ::][::Web::][:: data::] via [::natural language interface::]. While following our research agenda on the [::multiling...",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9736271",
+            "highlightedTitle": "[::QALD::]-9-plus: A [::Multilingual::] Dataset for [::Question Answering::] over [::DBpedia::] and [::Wikidata::] Translated by Native Speakers",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "docIdentifier": "IEEE Conferences",
+            "displayContentType": "Conference Paper"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Bo Liu",
+                    "normalizedName": "B. Liu",
+                    "firstName": "Bo",
+                    "lastName": "Liu",
+                    "searchablePreferredName": "Bo Liu",
+                    "id": 37088872814
+                },
+                {
+                    "preferredName": "Li-Ming Zhan",
+                    "normalizedName": "L. -M. Zhan",
+                    "firstName": "Li-Ming",
+                    "lastName": "Zhan",
+                    "searchablePreferredName": "Li-Ming Zhan",
+                    "id": 37088874167
+                },
+                {
+                    "preferredName": "Li Xu",
+                    "normalizedName": "L. Xu",
+                    "firstName": "Li",
+                    "lastName": "Xu",
+                    "searchablePreferredName": "Li Xu",
+                    "id": 37088871968
+                },
+                {
+                    "preferredName": "Lin Ma",
+                    "normalizedName": "L. Ma",
+                    "firstName": "Lin",
+                    "lastName": "Ma",
+                    "searchablePreferredName": "Lin Ma",
+                    "id": 37088871341
+                },
+                {
+                    "preferredName": "Yan Yang",
+                    "normalizedName": "Y. Yang",
+                    "firstName": "Yan",
+                    "lastName": "Yang",
+                    "searchablePreferredName": "Yan Yang",
+                    "id": 37088872238
+                },
+                {
+                    "preferredName": "Xiao-Ming Wu",
+                    "normalizedName": "X. -M. Wu",
+                    "firstName": "Xiao-Ming",
+                    "lastName": "Wu",
+                    "searchablePreferredName": "Xiao-Ming Wu",
+                    "id": 37085660423
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+            },
+            "publicationYear": "2021",
+            "publicationNumber": "9433749",
+            "documentLink": "/document/9434010/",
+            "articleNumber": "9434010",
+            "doi": "10.1109/ISBI48211.2021.9434010",
+            "citationCount": 1,
+            "isNumber": "9433753",
+            "publicationLink": "/xpl/conhome/9433749/proceeding",
+            "ephemera": false,
+            "vj": false,
+            "pdfSize": "2459",
+            "startPage": "1650",
+            "endPage": "1654",
+            "publicationDate": "13-16 April 2021",
+            "rightslinkFlag": true,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Slake%3A+A+Semantically-Labeled+Knowledge-Enhanced+Dataset+For+Medical+Visual+Question+Answering&isbn=null&publicationDate=13-16+April+2021&author=Bo+Liu%3B+Li-Ming+Zhan%3B+Li+Xu%3B+Lin+Ma%3B+Yan+Yang%3B+Xiao-Ming+Wu&ContentID=10.1109/ISBI48211.2021.9434010&orderBeanReset=true&startPage=1650&endPage=1654&proceedingName=2021+IEEE+18th+International+Symposium+on+Biomedical+Imaging+%28ISBI%29",
+            "articleTitle": "Slake: A Semantically-Labeled Knowledge-Enhanced Dataset For Medical Visual Question Answering",
+            "downloadCount": 161,
+            "htmlLink": "/document/9434010/",
+            "citationsLink": "/document/9434010/citations?tabFilter=papers",
+            "showHtml": true,
+            "graphicalAbstract": {},
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "publisher": "IEEE",
+            "redline": false,
+            "showCheckbox": true,
+            "handleProduct": false,
+            "contentType": "IEEE Conferences",
+            "publicationTitle": "2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)",
+            "displayPublicationTitle": "2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)",
+            "abstract": "Medical visual [::question answering::] (Med-VQA) has tremendous potential in healthcare. However, the development of this technology is hindered by the lacking of publicly-available and high-quality labeled datasets for training and evaluation. In this paper, we present a large [::bilingual::] dataset, SLAKE, with comprehensive semantic labels annotated by experienced physicians and a new structu...",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9434010",
+            "highlightedTitle": "Slake: A Semantically-Labeled Knowledge-Enhanced Dataset For Medical Visual [::Question Answering::]",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "docIdentifier": "IEEE Conferences",
+            "displayContentType": "Conference Paper"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Santosh K. Ray",
+                    "normalizedName": "S. K. Ray",
+                    "firstName": "Santosh K.",
+                    "lastName": "Ray",
+                    "searchablePreferredName": "Santosh K. Ray",
+                    "id": 37085405899
+                },
+                {
+                    "preferredName": "Khaled Shaalan",
+                    "normalizedName": "K. Shaalan",
+                    "firstName": "Khaled",
+                    "lastName": "Shaalan",
+                    "searchablePreferredName": "Khaled Shaalan",
+                    "id": 37396594900
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+            },
+            "publicationYear": "2016",
+            "volume": "28",
+            "issue": "12",
+            "publicationNumber": "69",
+            "documentLink": "/document/7563293/",
+            "articleNumber": "7563293",
+            "doi": "10.1109/TKDE.2016.2607201",
+            "citationCount": 25,
+            "isNumber": "7736162",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=69",
+            "ephemera": false,
+            "vj": false,
+            "pdfSize": "4215",
+            "startPage": "3169",
+            "endPage": "3190",
+            "publicationDate": "1 Dec. 2016",
+            "rightslinkFlag": true,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=69&title=A+Review+and+Future+Perspectives+of+Arabic+Question+Answering+Systems&isbn=null&publicationDate=1+Dec.+2016&author=Santosh+K.+Ray%3B+Khaled+Shaalan&ContentID=10.1109/TKDE.2016.2607201&orderBeanReset=true&startPage=3169&endPage=3190&volumeNum=28&issueNum=12",
+            "articleTitle": "A Review and Future Perspectives of Arabic Question Answering Systems",
+            "downloadCount": 617,
+            "htmlLink": "/document/7563293/",
+            "citationsLink": "/document/7563293/citations?tabFilter=papers",
+            "showHtml": true,
+            "graphicalAbstract": {
+                "type": "graphic",
+                "file": "/ielx7/69/7736162/7563293/graphical_abstract/tkde-gagraphic-2607201.jpg",
+                "coverImage": "/ielx7/69/7736162/7563293/graphical_abstract/tkde-gagraphic-2607201.jpg"
+            },
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "publisher": "IEEE",
+            "redline": false,
+            "showCheckbox": true,
+            "handleProduct": false,
+            "contentType": "IEEE Journals",
+            "publicationTitle": "IEEE Transactions on Knowledge and Data Engineering",
+            "displayPublicationTitle": "IEEE Transactions on Knowledge and Data Engineering",
+            "abstract": "[::Question Answering::] Systems (QASs) have emerged as a good alternative for information seekers to retrieve precise information over the Internet. A good amount of research has been done to improve the performance of QASs across [::several languages::], including European and Asian languages. However, Arabic, a morphologically rich Semitic language spoken by over 422 million people, has not see...",
+            "articleContentType": "Journals",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=7563293",
+            "highlightedTitle": "A Review and Future Perspectives of Arabic [::Question Answering::] Systems",
+            "isStandard": false,
+            "isConference": false,
+            "isJournalAndMagazine": true,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "docIdentifier": "IEEE Journals",
+            "displayContentType": "Journal Article"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Mohammad Al-Smadi",
+                    "normalizedName": "M. Al-Smadi",
+                    "firstName": "Mohammad",
+                    "lastName": "Al-Smadi",
+                    "searchablePreferredName": "Mohammad Al-Smadi",
+                    "id": 38276770100
+                },
+                {
+                    "preferredName": "Islam Al-Dalabih",
+                    "normalizedName": "I. Al-Dalabih",
+                    "firstName": "Islam",
+                    "lastName": "Al-Dalabih",
+                    "searchablePreferredName": "Islam Al-Dalabih",
+                    "id": 37087126953
+                },
+                {
+                    "preferredName": "Yaser Jararweh",
+                    "normalizedName": "Y. Jararweh",
+                    "firstName": "Yaser",
+                    "lastName": "Jararweh",
+                    "searchablePreferredName": "Yaser Jararweh",
+                    "id": 37322599600
+                },
+                {
+                    "preferredName": "Patrick Juola",
+                    "normalizedName": "P. Juola",
+                    "firstName": "Patrick",
+                    "lastName": "Juola",
+                    "searchablePreferredName": "Patrick Juola",
+                    "id": 37070735300
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "open-access",
+                "message": "Open Access"
+            },
+            "publicationYear": "2019",
+            "volume": "7",
+            "publicationNumber": "6287639",
+            "documentLink": "/document/8915781/",
+            "articleNumber": "8915781",
+            "doi": "10.1109/ACCESS.2019.2956233",
+            "citationCount": 3,
+            "isNumber": "8600701",
+            "publicationLink": "/xpl/RecentIssue.jsp?punumber=6287639",
+            "ephemera": false,
+            "vj": false,
+            "pdfSize": "2630",
+            "startPage": "177122",
+            "endPage": "177136",
+            "publicationDate": "2019",
+            "rightslinkFlag": false,
+            "articleTitle": "Leveraging Linked Open Data to Automatically Answer Arabic Questions",
+            "downloadCount": 590,
+            "htmlLink": "/document/8915781/",
+            "citationsLink": "/document/8915781/citations?tabFilter=papers",
+            "showHtml": true,
+            "graphicalAbstract": {
+                "type": "graphic",
+                "file": "/ielx7/6287639/8600701/8915781/graphical_abstract/access-gagraphic-2956233.jpg",
+                "coverImage": "/ielx7/6287639/8600701/8915781/graphical_abstract/access-gagraphic-2956233.jpg"
+            },
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "publisher": "IEEE",
+            "redline": false,
+            "showCheckbox": true,
+            "handleProduct": false,
+            "contentType": "IEEE Journals",
+            "publicationTitle": "IEEE Access",
+            "displayPublicationTitle": "IEEE Access",
+            "abstract": "The interchangeably connected Web technologies and the advancements that accompany the [::semantic web::] content&#39;s leaps, have raised many challenges in the results&#39; retrieval process especially for the Arabic Language. This research targets an important, yet insufficiently precedent, area in using Linked Open Data (LOD) for Automatic [::Question Answering::] systems in the Arabic Language. The s...",
+            "articleContentType": "Journals",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8915781",
+            "highlightedTitle": "Leveraging Linked Open Data to Automatically Answer Arabic Questions",
+            "isStandard": false,
+            "isConference": false,
+            "isJournalAndMagazine": true,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "docIdentifier": "IEEE Journals",
+            "displayContentType": "Journal Article"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Lahiru Hinguruduwa",
+                    "normalizedName": "L. Hinguruduwa",
+                    "firstName": "Lahiru",
+                    "lastName": "Hinguruduwa",
+                    "searchablePreferredName": "Lahiru Hinguruduwa",
+                    "id": 37088800394
+                },
+                {
+                    "preferredName": "Edgard Marx",
+                    "normalizedName": "E. Marx",
+                    "firstName": "Edgard",
+                    "lastName": "Marx",
+                    "searchablePreferredName": "Edgard Marx",
+                    "id": 37086042149
+                },
+                {
+                    "preferredName": "Tommaso Soru",
+                    "normalizedName": "T. Soru",
+                    "firstName": "Tommaso",
+                    "lastName": "Soru",
+                    "searchablePreferredName": "Tommaso Soru",
+                    "id": 37085543675
+                },
+                {
+                    "preferredName": "Thomas Riechert",
+                    "normalizedName": "T. Riechert",
+                    "firstName": "Thomas",
+                    "lastName": "Riechert",
+                    "searchablePreferredName": "Thomas Riechert",
+                    "id": 37320256700
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+            },
+            "publicationYear": "2021",
+            "publicationNumber": "9364351",
+            "documentLink": "/document/9364504/",
+            "articleNumber": "9364504",
+            "doi": "10.1109/ICSC50631.2021.00084",
+            "citationCount": 1,
+            "isNumber": "9364371",
+            "publicationLink": "/xpl/conhome/9364351/proceeding",
+            "ephemera": false,
+            "vj": false,
+            "pdfSize": "2767",
+            "startPage": "296",
+            "endPage": "297",
+            "publicationDate": "27-29 Jan. 2021",
+            "rightslinkFlag": true,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Assessing+Language+Identification+over+DBpedia&isbn=null&publicationDate=27-29+Jan.+2021&author=Lahiru+Hinguruduwa%3B+Edgard+Marx%3B+Tommaso+Soru%3B+Thomas+Riechert&ContentID=10.1109/ICSC50631.2021.00084&orderBeanReset=true&startPage=296&endPage=297&proceedingName=2021+IEEE+15th+International+Conference+on+Semantic+Computing+%28ICSC%29",
+            "articleTitle": "Assessing Language Identification over DBpedia",
+            "downloadCount": 34,
+            "htmlLink": "/document/9364504/",
+            "citationsLink": "/document/9364504/citations?tabFilter=papers",
+            "showHtml": true,
+            "graphicalAbstract": {},
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "publisher": "IEEE",
+            "redline": false,
+            "showCheckbox": true,
+            "handleProduct": false,
+            "contentType": "IEEE Conferences",
+            "publicationTitle": "2021 IEEE 15th International Conference on Semantic Computing (ICSC)",
+            "displayPublicationTitle": "2021 IEEE 15th International Conference on Semantic Computing (ICSC)",
+            "abstract": "[::Multilingual::] [::knowledge bases::] are the key for [::cross-lingual::] and [::multilingual::] applications such as [::Question Answering::], Machine Translation, and Search. They facilitate information access and provide valuable training corpora for multi- and [::cross-lingual::] methods and frameworks. In this work, we evaluate the performance of different language identification methods a...",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9364504",
+            "highlightedTitle": "Assessing Language Identification over [::DBpedia::]",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "docIdentifier": "IEEE Conferences",
+            "displayContentType": "Conference Paper"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Zhichao Duan",
+                    "normalizedName": "Z. Duan",
+                    "firstName": "Zhichao",
+                    "lastName": "Duan",
+                    "searchablePreferredName": "Zhichao Duan",
+                    "id": 37089239010
+                },
+                {
+                    "preferredName": "Xiuxing Li",
+                    "normalizedName": "X. Li",
+                    "firstName": "Xiuxing",
+                    "lastName": "Li",
+                    "searchablePreferredName": "Xiuxing Li",
+                    "id": 37086185868
+                },
+                {
+                    "preferredName": "Zhengyan Zhang",
+                    "normalizedName": "Z. Zhang",
+                    "firstName": "Zhengyan",
+                    "lastName": "Zhang",
+                    "searchablePreferredName": "Zhengyan Zhang",
+                    "id": 37086827697
+                },
+                {
+                    "preferredName": "Zhenyu Li",
+                    "normalizedName": "Z. Li",
+                    "firstName": "Zhenyu",
+                    "lastName": "Li",
+                    "searchablePreferredName": "Zhenyu Li",
+                    "id": 37089239243
+                },
+                {
+                    "preferredName": "Ning Liu",
+                    "normalizedName": "N. Liu",
+                    "firstName": "Ning",
+                    "lastName": "Liu",
+                    "searchablePreferredName": "Ning Liu",
+                    "id": 37086852441
+                },
+                {
+                    "preferredName": "Jianyong Wang",
+                    "normalizedName": "J. Wang",
+                    "firstName": "Jianyong",
+                    "lastName": "Wang",
+                    "searchablePreferredName": "Jianyong Wang",
+                    "id": 37280524400
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+            },
+            "publicationYear": "2021",
+            "publicationNumber": "9667543",
+            "documentLink": "/document/9667687/",
+            "articleNumber": "9667687",
+            "doi": "10.1109/ICKG52313.2021.00052",
+            "citationCount": 0,
+            "isNumber": "9667672",
+            "publicationLink": "/xpl/conhome/9667543/proceeding",
+            "ephemera": false,
+            "vj": false,
+            "pdfSize": "383",
+            "startPage": "339",
+            "endPage": "346",
+            "publicationDate": "7-8 Dec. 2021",
+            "rightslinkFlag": true,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Bridging+the+Language+Gap%3A+Knowledge+Injected+Multilingual+Question+Answering&isbn=null&publicationDate=7-8+Dec.+2021&author=Zhichao+Duan%3B+Xiuxing+Li%3B+Zhengyan+Zhang%3B+Zhenyu+Li%3B+Ning+Liu%3B+Jianyong+Wang&ContentID=10.1109/ICKG52313.2021.00052&orderBeanReset=true&startPage=339&endPage=346&proceedingName=2021+IEEE+International+Conference+on+Big+Knowledge+%28ICBK%29",
+            "articleTitle": "Bridging the Language Gap: Knowledge Injected Multilingual Question Answering",
+            "downloadCount": 19,
+            "htmlLink": "/document/9667687/",
+            "showHtml": true,
+            "graphicalAbstract": {},
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "publisher": "IEEE",
+            "redline": false,
+            "showCheckbox": true,
+            "handleProduct": false,
+            "contentType": "IEEE Conferences",
+            "publicationTitle": "2021 IEEE International Conference on Big Knowledge (ICBK)",
+            "displayPublicationTitle": "2021 IEEE International Conference on Big Knowledge (ICBK)",
+            "abstract": "[::Question Answering::] ([::QA::]) is the task of automati-cally answering questions posed by humans in natural languages. There are different settings to answer a question, such as abstractive, extractive, boolean, and multiple-choice [::QA::]. As a popular topic in natural language processing tasks, extractive [::question answering::] task (extractive [::QA::]) has gained extensive attention in...",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9667687",
+            "highlightedTitle": "Bridging the Language Gap: Knowledge Injected [::Multilingual::] [::Question Answering::]",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "docIdentifier": "IEEE Conferences",
+            "displayContentType": "Conference Paper"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Aleksandr Perevalov",
+                    "normalizedName": "A. Perevalov",
+                    "firstName": "Aleksandr",
+                    "lastName": "Perevalov",
+                    "searchablePreferredName": "Aleksandr Perevalov",
+                    "id": 37089339715
+                },
+                {
+                    "preferredName": "Axel-Cyrille Ngonga Ngomo",
+                    "normalizedName": "A. -C. N. Ngomo",
+                    "firstName": "Axel-Cyrille Ngonga",
+                    "lastName": "Ngomo",
+                    "searchablePreferredName": "Axel-Cyrille Ngonga Ngomo",
+                    "id": 37085868249
+                },
+                {
+                    "preferredName": "Andreas Both",
+                    "normalizedName": "A. Both",
+                    "firstName": "Andreas",
+                    "lastName": "Both",
+                    "searchablePreferredName": "Andreas Both",
+                    "id": 37647668800
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+            },
+            "publicationYear": "2022",
+            "publicationNumber": "9736194",
+            "documentLink": "/document/9736278/",
+            "articleNumber": "9736278",
+            "doi": "10.1109/ICSC52841.2022.00048",
+            "citationCount": 0,
+            "isNumber": "9736265",
+            "publicationLink": "/xpl/conhome/9736194/proceeding",
+            "ephemera": false,
+            "vj": false,
+            "pdfSize": "120",
+            "startPage": "251",
+            "endPage": "256",
+            "publicationDate": "26-28 Jan. 2022",
+            "rightslinkFlag": true,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Enhancing+the+Accessibility+of+Knowledge+Graph+Question+Answering+Systems+through+Multilingualization&isbn=null&publicationDate=26-28+Jan.+2022&author=Aleksandr+Perevalov%3B+Axel-Cyrille+Ngonga+Ngomo%3B+Andreas+Both&ContentID=10.1109/ICSC52841.2022.00048&orderBeanReset=true&startPage=251&endPage=256&proceedingName=2022+IEEE+16th+International+Conference+on+Semantic+Computing+%28ICSC%29",
+            "articleTitle": "Enhancing the Accessibility of Knowledge Graph Question Answering Systems through Multilingualization",
+            "downloadCount": 0,
+            "htmlLink": "/document/9736278/",
+            "showHtml": true,
+            "graphicalAbstract": {},
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "publisher": "IEEE",
+            "redline": false,
+            "showCheckbox": true,
+            "handleProduct": false,
+            "contentType": "IEEE Conferences",
+            "publicationTitle": "2022 IEEE 16th International Conference on Semantic Computing (ICSC)",
+            "displayPublicationTitle": "2022 IEEE 16th International Conference on Semantic Computing (ICSC)",
+            "abstract": "There are around 7000 languages spoken today in the world, yet English dominates in many research communities e.g., [::Knowledge Graph::] [::Question Answering::] ([::KGQA::]). The goal of a [::KGQA::] system is to provide natural language access to a [::knowledge graph::]. While many research works aim to achieve the best possible [::QA::] quality over English benchmarks, only a small share of th...",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9736278",
+            "highlightedTitle": "Enhancing the Accessibility of [::Knowledge Graph::] [::Question Answering::] Systems through [::Multilingualization::]",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "docIdentifier": "IEEE Conferences",
+            "displayContentType": "Conference Paper"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Xinyu Wang",
+                    "normalizedName": "X. Wang",
+                    "firstName": "Xinyu",
+                    "lastName": "Wang",
+                    "searchablePreferredName": "Xinyu Wang",
+                    "id": 37086059509
+                },
+                {
+                    "preferredName": "Yuliang Liu",
+                    "normalizedName": "Y. Liu",
+                    "firstName": "Yuliang",
+                    "lastName": "Liu",
+                    "searchablePreferredName": "Yuliang Liu",
+                    "id": 37086217376
+                },
+                {
+                    "preferredName": "Chunhua Shen",
+                    "normalizedName": "C. Shen",
+                    "firstName": "Chunhua",
+                    "lastName": "Shen",
+                    "searchablePreferredName": "Chunhua Shen",
+                    "id": 37274255300
+                },
+                {
+                    "preferredName": "Chun Chet Ng",
+                    "normalizedName": "C. C. Ng",
+                    "firstName": "Chun Chet",
+                    "lastName": "Ng",
+                    "searchablePreferredName": "Chun Chet Ng",
+                    "id": 37087412014
+                },
+                {
+                    "preferredName": "Canjie Luo",
+                    "normalizedName": "C. Luo",
+                    "firstName": "Canjie",
+                    "lastName": "Luo",
+                    "searchablePreferredName": "Canjie Luo",
+                    "id": 37087189665
+                },
+                {
+                    "preferredName": "Lianwen Jin",
+                    "normalizedName": "L. Jin",
+                    "firstName": "Lianwen",
+                    "lastName": "Jin",
+                    "searchablePreferredName": "Lianwen Jin",
+                    "id": 37288403700
+                },
+                {
+                    "preferredName": "Chee Seng Chan",
+                    "normalizedName": "C. S. Chan",
+                    "firstName": "Chee Seng",
+                    "lastName": "Chan",
+                    "searchablePreferredName": "Chee Seng Chan",
+                    "id": 38240616900
+                },
+                {
+                    "preferredName": "Anton van den Hengel",
+                    "normalizedName": "A. van den Hengel",
+                    "firstName": "Anton",
+                    "lastName": "van den Hengel",
+                    "searchablePreferredName": "Anton van den Hengel",
+                    "id": 38476717400
+                },
+                {
+                    "preferredName": "Liangwei Wang",
+                    "normalizedName": "L. Wang",
+                    "firstName": "Liangwei",
+                    "lastName": "Wang",
+                    "searchablePreferredName": "Liangwei Wang",
+                    "id": 37088454041
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+            },
+            "publicationYear": "2020",
+            "publicationNumber": "9142308",
+            "documentLink": "/document/9156857/",
+            "articleNumber": "9156857",
+            "doi": "10.1109/CVPR42600.2020.01014",
+            "citationCount": 11,
+            "isNumber": "9156271",
+            "publicationLink": "/xpl/conhome/9142308/proceeding",
+            "ephemera": false,
+            "vj": false,
+            "pdfSize": "1539",
+            "startPage": "10123",
+            "endPage": "10132",
+            "publicationDate": "13-19 June 2020",
+            "rightslinkFlag": true,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=On+the+General+Value+of+Evidence%2C+and+Bilingual+Scene-Text+Visual+Question+Answering&isbn=null&publicationDate=13-19+June+2020&author=Xinyu+Wang%3B+Yuliang+Liu%3B+Chunhua+Shen%3B+Chun+Chet+Ng%3B+Canjie+Luo%3B+Lianwen+Jin%3B+Chee+Seng+Chan%3B+Anton+van+den+Hengel%3B+Liangwei+Wang&ContentID=10.1109/CVPR42600.2020.01014&orderBeanReset=true&startPage=10123&endPage=10132&proceedingName=2020+IEEE%2FCVF+Conference+on+Computer+Vision+and+Pattern+Recognition+%28CVPR%29",
+            "articleTitle": "On the General Value of Evidence, and Bilingual Scene-Text Visual Question Answering",
+            "downloadCount": 148,
+            "htmlLink": "/document/9156857/",
+            "citationsLink": "/document/9156857/citations?tabFilter=papers",
+            "showHtml": true,
+            "graphicalAbstract": {},
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "publisher": "IEEE",
+            "redline": false,
+            "showCheckbox": true,
+            "handleProduct": false,
+            "contentType": "IEEE Conferences",
+            "publicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "displayPublicationTitle": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "abstract": "Visual [::Question Answering::] (VQA) methods have made incredible progress, but suffer from a failure to generalize. This is visible in the fact that they are vulnerable to learning coincidental correlations in the data rather than deeper relations between image content and ideas expressed in language. We present a dataset that takes a step towards addressing this problem in that it contains ques...",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=9156857",
+            "highlightedTitle": "On the General Value of Evidence, and [::Bilingual::] Scene-Text Visual [::Question Answering::]",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "docIdentifier": "IEEE Conferences",
+            "displayContentType": "Conference Paper"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "E. Whittaker",
+                    "normalizedName": "E. Whittaker",
+                    "firstName": "E.",
+                    "lastName": "Whittaker",
+                    "searchablePreferredName": "E. Whittaker",
+                    "id": 37340497000
+                },
+                {
+                    "preferredName": "S. Furui",
+                    "normalizedName": "S. Furui",
+                    "firstName": "S.",
+                    "lastName": "Furui",
+                    "searchablePreferredName": "S. Furui",
+                    "id": 37284306800
+                },
+                {
+                    "preferredName": "D. Klakow",
+                    "normalizedName": "D. Klakow",
+                    "firstName": "D.",
+                    "lastName": "Klakow",
+                    "searchablePreferredName": "D. Klakow",
+                    "id": 37314085300
+                }
+            ],
+            "patentCitationCount": 1,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+            },
+            "publicationYear": "2005",
+            "publicationNumber": "10580",
+            "documentLink": "/document/1587573/",
+            "articleNumber": "1587573",
+            "doi": "10.1109/CW.2005.10",
+            "citationCount": 6,
+            "isNumber": "33457",
+            "publicationLink": "/xpl/conhome/10580/proceeding",
+            "ephemera": false,
+            "vj": false,
+            "pdfSize": "281",
+            "startPage": "8 pp.",
+            "endPage": "428",
+            "publicationDate": "23-25 Nov. 2005",
+            "rightslinkFlag": true,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=A+statistical+classification+approach+to+question+answering+using+Web+data&isbn=null&publicationDate=23-25+Nov.+2005&author=E.+Whittaker%3B+S.+Furui%3B+D.+Klakow&ContentID=10.1109/CW.2005.10&orderBeanReset=true&startPage=8 pp.&endPage=428&proceedingName=2005+International+Conference+on+Cyberworlds+%28CW%2705%29",
+            "articleTitle": "A statistical classification approach to question answering using Web data",
+            "downloadCount": 86,
+            "htmlLink": "/document/1587573/",
+            "citationsLink": "/document/1587573/citations?tabFilter=papers",
+            "patentCitationsLink": "/document/1587573/citations?tabFilter=patents",
+            "showHtml": true,
+            "graphicalAbstract": {},
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "publisher": "IEEE",
+            "redline": false,
+            "showCheckbox": true,
+            "handleProduct": false,
+            "contentType": "IEEE Conferences",
+            "publicationTitle": "2005 International Conference on Cyberworlds (CW'05)",
+            "displayPublicationTitle": "2005 International Conference on Cyberworlds (CW'05)",
+            "abstract": "In this paper we treat [::question answering::] ([::QA::]) as a classification problem. Our motivation is to build systems for [::many languages::] without the need for highly tuned linguistic modules. Consequently, word tokens and [::Web data::] are used extensively but no explicit linguistic knowledge is incorporated. A mathematical model for answer retrieval, answer classification and answer le...",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=1587573",
+            "highlightedTitle": "A statistical classification approach to [::question answering::] using [::Web data::]",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "docIdentifier": "IEEE Conferences",
+            "displayContentType": "Conference Paper"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Eero Hyvonen",
+                    "normalizedName": "E. Hyvonen",
+                    "firstName": "Eero",
+                    "lastName": "Hyvonen",
+                    "searchablePreferredName": "Eero Hyvonen"
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+            },
+            "publicationYear": "2012",
+            "publicationNumber": "6812748",
+            "documentLink": "/document/6812748/",
+            "articleNumber": "6812748",
+            "citationCount": 0,
+            "publicationLink": "/book/6812748",
+            "ephemera": false,
+            "vj": false,
+            "rightslinkFlag": false,
+            "articleTitle": "Publishing and Using Cultural Heritage Linked Data on the Semantic Web",
+            "downloadCount": 108,
+            "htmlLink": "/document/6812748/",
+            "showHtml": false,
+            "graphicalAbstract": {},
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "publisher": "Morgan & Claypool",
+            "redline": false,
+            "showCheckbox": true,
+            "handleProduct": false,
+            "contentType": "Morgan & Claypool Books",
+            "abstract": "Cultural Heritage (CH) data is syntactically and semantically heterogeneous, [::multilingual::], semantically rich, and highly interlinked. It is produced in a distributed, open fashion by museums, libraries, archives, and media organizations, as well as individual persons. Managing publication of such richness and variety of content on the Web, and at the same time supporting distributed, interop...",
+            "articleContentType": "Books",
+            "pdfLink": "/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6812749.pdf&bkn=6812748&pdfType=book",
+            "bookPdfMountpoint": "/ebooks/6812748/6812749.pdf?bkn=6812748&pdfType=book",
+            "highlightedTitle": "Publishing and Using Cultural Heritage Linked Data on the Semantic Web",
+            "isStandard": false,
+            "isConference": false,
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "isJournal": false,
+            "isBook": true,
+            "course": false,
+            "isBookWithoutChapters": true,
+            "docIdentifier": "Morgan and Claypool eBooks",
+            "displayContentType": "Book"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Mattia Atzeni",
+                    "normalizedName": "M. Atzeni",
+                    "firstName": "Mattia",
+                    "lastName": "Atzeni",
+                    "searchablePreferredName": "Mattia Atzeni",
+                    "id": 37086359531
+                },
+                {
+                    "preferredName": "Maurizio Atzori",
+                    "normalizedName": "M. Atzori",
+                    "firstName": "Maurizio",
+                    "lastName": "Atzori",
+                    "searchablePreferredName": "Maurizio Atzori",
+                    "id": 37550374200
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+            },
+            "publicationYear": "2019",
+            "publicationNumber": "8784131",
+            "documentLink": "/document/8791728/",
+            "articleNumber": "8791728",
+            "doi": "10.1109/AIKE.2019.00028",
+            "citationCount": 0,
+            "isNumber": "8791677",
+            "publicationLink": "/xpl/conhome/8784131/proceeding",
+            "ephemera": false,
+            "vj": false,
+            "pdfSize": "221",
+            "startPage": "111",
+            "endPage": "112",
+            "publicationDate": "3-5 June 2019",
+            "rightslinkFlag": true,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=AskCO%3A+A+Multi-language+and+Extensible+Smart+Virtual+Assistant&isbn=null&publicationDate=3-5+June+2019&author=Mattia+Atzeni%3B+Maurizio+Atzori&ContentID=10.1109/AIKE.2019.00028&orderBeanReset=true&startPage=111&endPage=112&proceedingName=2019+IEEE+Second+International+Conference+on+Artificial+Intelligence+and+Knowledge+Engineering+%28AIKE%29",
+            "articleTitle": "AskCO: A Multi-language and Extensible Smart Virtual Assistant",
+            "downloadCount": 157,
+            "htmlLink": "/document/8791728/",
+            "showHtml": true,
+            "graphicalAbstract": {},
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "publisher": "IEEE",
+            "redline": false,
+            "showCheckbox": true,
+            "handleProduct": false,
+            "contentType": "IEEE Conferences",
+            "publicationTitle": "2019 IEEE Second International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)",
+            "displayPublicationTitle": "2019 IEEE Second International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)",
+            "abstract": "This paper discusses a language-independent approach for building smart and easily-extensible personal assistants and chatbots. Given a natural language utterance, the system extracts a formal meaning representation that enables mapping the user intent to the execution of a Java source code. This allows building both smart personal assistants and chatbots that can be easily extended by overriding ...",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=8791728",
+            "highlightedTitle": "AskCO: A Multi-language and Extensible Smart Virtual Assistant",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "docIdentifier": "IEEE Conferences",
+            "displayContentType": "Conference Paper"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "L. Zapf",
+                    "normalizedName": "L. Zapf",
+                    "firstName": "L.",
+                    "lastName": "Zapf",
+                    "searchablePreferredName": "L. Zapf"
+                },
+                {
+                    "preferredName": "N. Fernández-García",
+                    "normalizedName": "N. Fernández-García",
+                    "firstName": "N.",
+                    "lastName": "Fernández-García",
+                    "searchablePreferredName": "N. Fernández-García"
+                },
+                {
+                    "preferredName": "L. Sánchez-Fernández",
+                    "normalizedName": "L. Sánchez-Fernández",
+                    "firstName": "L.",
+                    "lastName": "Sánchez-Fernández",
+                    "searchablePreferredName": "L. Sánchez-Fernández"
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+            },
+            "publicationYear": "2005",
+            "publicationNumber": "10530",
+            "documentLink": "/document/1576055/",
+            "articleNumber": "1576055",
+            "doi": "10.1049/ic.2005.0774",
+            "citationCount": 0,
+            "isNumber": "33311",
+            "publicationLink": "/xpl/conhome/10530/proceeding",
+            "ephemera": false,
+            "vj": false,
+            "pdfSize": "596",
+            "startPage": "455",
+            "endPage": "459",
+            "publicationDate": "30 Nov.-1 Dec. 2005",
+            "rightslinkFlag": false,
+            "articleTitle": "The news project - semantic web technologies for the news domain",
+            "downloadCount": 110,
+            "htmlLink": "/document/1576055/",
+            "showHtml": false,
+            "graphicalAbstract": {},
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "publisher": "IET",
+            "redline": false,
+            "showCheckbox": true,
+            "handleProduct": false,
+            "contentType": "IET Conferences",
+            "publicationTitle": "The 2nd European Workshop on the Integration of Knowledge, Semantics and Digital Media Technology, 2005. EWIMT 2005. (Ref. No. 2005/11099)",
+            "displayPublicationTitle": "The 2nd European Workshop on the Integration of Knowledge, Semantics and Digital Media Technology, 2005. EWIMT 2005. (Ref. No. 2005/11099)",
+            "abstract": "The news domain with its dynamically growing content is a good application scenario for proving the use of [::Semantic Web::] technology. Main purpose of the NEWS project is to extend the reach and delivery capabilities of online content provision and syndication services by supporting advanced personalized news discovery, analysis and presentation, and fostering interoperability across the news c...",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=1576055",
+            "highlightedTitle": "The news project - [::semantic web::] technologies for the news domain",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "docIdentifier": "IET Conferences",
+            "displayContentType": "Conference Paper"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Shivangi Nanda",
+                    "normalizedName": "S. Nanda",
+                    "firstName": "Shivangi",
+                    "lastName": "Nanda",
+                    "searchablePreferredName": "Shivangi Nanda",
+                    "id": 37085485319
+                },
+                {
+                    "preferredName": "Parteek Bhatia",
+                    "normalizedName": "P. Bhatia",
+                    "firstName": "Parteek",
+                    "lastName": "Bhatia",
+                    "searchablePreferredName": "Parteek Bhatia",
+                    "id": 37085481068
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+            },
+            "publicationYear": "2014",
+            "publicationNumber": "6996691",
+            "documentLink": "/document/7019156/",
+            "articleNumber": "7019156",
+            "doi": "10.1109/ICACCCT.2014.7019156",
+            "citationCount": 0,
+            "isNumber": "7019129",
+            "publicationLink": "/xpl/conhome/6996691/proceeding",
+            "ephemera": false,
+            "vj": false,
+            "pdfSize": "223",
+            "startPage": "596",
+            "endPage": "600",
+            "publicationDate": "8-10 May 2014",
+            "rightslinkFlag": true,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Semantic+search+engine+and+its+strategies+with+IAN+encoder&isbn=null&publicationDate=8-10+May+2014&author=Shivangi+Nanda%3B+Parteek+Bhatia&ContentID=10.1109/ICACCCT.2014.7019156&orderBeanReset=true&startPage=596&endPage=600&proceedingName=2014+IEEE+International+Conference+on+Advanced+Communications%2C+Control+and+Computing+Technologies",
+            "articleTitle": "Semantic search engine and its strategies with IAN encoder",
+            "downloadCount": 95,
+            "htmlLink": "/document/7019156/",
+            "showHtml": true,
+            "graphicalAbstract": {},
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "publisher": "IEEE",
+            "redline": false,
+            "showCheckbox": true,
+            "handleProduct": false,
+            "contentType": "IEEE Conferences",
+            "publicationTitle": "2014 IEEE International Conference on Advanced Communications, Control and Computing Technologies",
+            "displayPublicationTitle": "2014 IEEE International Conference on Advanced Communications, Control and Computing Technologies",
+            "abstract": "A semantic based approach is better in many ways than the keyword based searches. As the wide amount of information on the internet is exceling daily, the keyword based approach in many commercial search engines is failing to retrieve correct information without getting the knowledge and need of user query. Since the keyword based search could search for the particular language having that keyword...",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=7019156",
+            "highlightedTitle": "[::Semantic search::] engine and its strategies with IAN encoder",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "docIdentifier": "IEEE Conferences",
+            "displayContentType": "Conference Paper"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Bo Ma",
+                    "normalizedName": "B. Ma",
+                    "firstName": "Bo",
+                    "lastName": "Ma",
+                    "searchablePreferredName": "Bo Ma",
+                    "id": 37592706800
+                },
+                {
+                    "preferredName": "Yating Yang",
+                    "normalizedName": "Y. Yang",
+                    "firstName": "Yating",
+                    "lastName": "Yang",
+                    "searchablePreferredName": "Yating Yang",
+                    "id": 37599949400
+                },
+                {
+                    "preferredName": "Xi Zhou",
+                    "normalizedName": "X. Zhou",
+                    "firstName": "Xi",
+                    "lastName": "Zhou",
+                    "searchablePreferredName": "Xi Zhou",
+                    "id": 37086170499
+                },
+                {
+                    "preferredName": "Junlin Zhou",
+                    "normalizedName": "J. Zhou",
+                    "firstName": "Junlin",
+                    "lastName": "Zhou",
+                    "searchablePreferredName": "Junlin Zhou",
+                    "id": 37596872800
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+            },
+            "publicationYear": "2010",
+            "publicationNumber": "5602833",
+            "documentLink": "/document/5607456/",
+            "articleNumber": "5607456",
+            "doi": "10.1109/SWS.2010.5607456",
+            "citationCount": 2,
+            "isNumber": "5607344",
+            "publicationLink": "/xpl/conhome/5602833/proceeding",
+            "ephemera": false,
+            "vj": false,
+            "pdfSize": "174",
+            "startPage": "191",
+            "endPage": "196",
+            "publicationDate": "16-17 Aug. 2010",
+            "rightslinkFlag": true,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=An+ontology-based+semantic+retrieval+model+for+Uyghur+search+engine&isbn=null&publicationDate=16-17+Aug.+2010&author=Bo+Ma%3B+Yating+Yang%3B+Xi+Zhou%3B+Junlin+Zhou&ContentID=10.1109/SWS.2010.5607456&orderBeanReset=true&startPage=191&endPage=196&proceedingName=2010+IEEE+2nd+Symposium+on+Web+Society",
+            "articleTitle": "An ontology-based semantic retrieval model for Uyghur search engine",
+            "downloadCount": 225,
+            "htmlLink": "/document/5607456/",
+            "citationsLink": "/document/5607456/citations?tabFilter=papers",
+            "showHtml": true,
+            "graphicalAbstract": {},
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "publisher": "IEEE",
+            "redline": false,
+            "showCheckbox": true,
+            "handleProduct": false,
+            "contentType": "IEEE Conferences",
+            "publicationTitle": "2010 IEEE 2nd Symposium on Web Society",
+            "displayPublicationTitle": "2010 IEEE 2nd Symposium on Web Society",
+            "abstract": "In recent years, [::semantic search::] has been successfully used for information retrieval, however, it is still in the early stage, and there is not [::semantic search::] engine for minorities in China. In this paper, we propose a semantic retrieval model which is comprised of resources collection, semantic annotation, query analysis and results ranking. For semantic annotation, we use domain on...",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=5607456",
+            "highlightedTitle": "An ontology-based semantic retrieval model for Uyghur search engine",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "docIdentifier": "IEEE Conferences",
+            "displayContentType": "Conference Paper"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Walter Kasper",
+                    "normalizedName": "W. Kasper",
+                    "firstName": "Walter",
+                    "lastName": "Kasper",
+                    "searchablePreferredName": "Walter Kasper",
+                    "id": 38077585800
+                },
+                {
+                    "preferredName": "Jörg Steffen",
+                    "normalizedName": "J. Steffen",
+                    "firstName": "Jörg",
+                    "lastName": "Steffen",
+                    "searchablePreferredName": "Jörg Steffen",
+                    "id": 38095687200
+                },
+                {
+                    "preferredName": "Yajing Zhang",
+                    "normalizedName": "Y. Zhang",
+                    "firstName": "Yajing",
+                    "lastName": "Zhang",
+                    "searchablePreferredName": "Yajing Zhang",
+                    "id": 38089422100
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+            },
+            "publicationYear": "2008",
+            "publicationNumber": "4597156",
+            "documentLink": "/document/4597200/",
+            "articleNumber": "4597200",
+            "doi": "10.1109/ICSC.2008.42",
+            "citationCount": 0,
+            "isNumber": "4597157",
+            "publicationLink": "/xpl/conhome/4597156/proceeding",
+            "ephemera": false,
+            "vj": false,
+            "pdfSize": "572",
+            "startPage": "261",
+            "endPage": "267",
+            "publicationDate": "4-7 Aug. 2008",
+            "rightslinkFlag": true,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=Using+Semantics+for+News+Navigation&isbn=null&publicationDate=4-7+Aug.+2008&author=Walter+Kasper%3B+J%C3%B6rg+Steffen%3B+Yajing+Zhang&ContentID=10.1109/ICSC.2008.42&orderBeanReset=true&startPage=261&endPage=267&proceedingName=2008+IEEE+International+Conference+on+Semantic+Computing",
+            "articleTitle": "Using Semantics for News Navigation",
+            "downloadCount": 33,
+            "htmlLink": "/document/4597200/",
+            "showHtml": true,
+            "graphicalAbstract": {},
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "publisher": "IEEE",
+            "redline": false,
+            "showCheckbox": true,
+            "handleProduct": false,
+            "contentType": "IEEE Conferences",
+            "publicationTitle": "2008 IEEE International Conference on Semantic Computing",
+            "displayPublicationTitle": "2008 IEEE International Conference on Semantic Computing",
+            "abstract": "We present a system for browsing news that is based on semantic similarity of documents. News documents get automatically annotated semantically using information extraction. Annotations are displayed to a user who can easily retrieve [::crosslingual::] semantically related documents by selecting interesting items.",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=4597200",
+            "highlightedTitle": "Using Semantics for News Navigation",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "docIdentifier": "IEEE Conferences",
+            "displayContentType": "Conference Paper"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "Fraihat Salam",
+                    "normalizedName": "F. Salam",
+                    "firstName": "Fraihat",
+                    "lastName": "Salam",
+                    "searchablePreferredName": "Fraihat Salam",
+                    "id": 37077131500
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+            },
+            "publicationYear": "2013",
+            "publicationNumber": "6630243",
+            "documentLink": "/document/6631638/",
+            "articleNumber": "6631638",
+            "doi": "10.1109/EIDWT.2013.60",
+            "citationCount": 0,
+            "isNumber": "6631552",
+            "publicationLink": "/xpl/conhome/6630243/proceeding",
+            "ephemera": false,
+            "vj": false,
+            "pdfSize": "205",
+            "startPage": "313",
+            "endPage": "318",
+            "publicationDate": "9-11 Sept. 2013",
+            "rightslinkFlag": true,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=New+Semantic+Indexing+and+Search+System%26nbsp%3B%26nbsp%3BBased+on+Ontology&isbn=null&publicationDate=9-11+Sept.+2013&author=Fraihat+Salam&ContentID=10.1109/EIDWT.2013.60&orderBeanReset=true&startPage=313&endPage=318&proceedingName=2013+Fourth+International+Conference+on+Emerging+Intelligent+Data+and+Web+Technologies",
+            "articleTitle": "New Semantic Indexing and Search System  Based on Ontology",
+            "downloadCount": 448,
+            "htmlLink": "/document/6631638/",
+            "showHtml": true,
+            "graphicalAbstract": {},
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "publisher": "IEEE",
+            "redline": false,
+            "showCheckbox": true,
+            "handleProduct": false,
+            "contentType": "IEEE Conferences",
+            "publicationTitle": "2013 Fourth International Conference on Emerging Intelligent Data and Web Technologies",
+            "displayPublicationTitle": "2013 Fourth International Conference on Emerging Intelligent Data and Web Technologies",
+            "abstract": "Information retrieval becomes a very complex process for search engines on the Web, this is due to, first, the staggering growth speed of the number of web site and, in the other hand, the search algorithms by keywords (terms) used currently are not suitable to better exploit this huge information quantity. These elements make the information retrieval by the current search engines very difficult ...",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=6631638",
+            "highlightedTitle": "New Semantic Indexing and Search System  Based on Ontology",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "docIdentifier": "IEEE Conferences",
+            "displayContentType": "Conference Paper"
+        },
+        {
+            "authors": [
+                {
+                    "preferredName": "D. Bonino",
+                    "normalizedName": "D. Bonino",
+                    "firstName": "D.",
+                    "lastName": "Bonino",
+                    "searchablePreferredName": "D. Bonino",
+                    "id": 37269702700
+                },
+                {
+                    "preferredName": "F. Corno",
+                    "normalizedName": "F. Corno",
+                    "firstName": "F.",
+                    "lastName": "Corno",
+                    "searchablePreferredName": "F. Corno",
+                    "id": 37275850500
+                },
+                {
+                    "preferredName": "L. Farinetti",
+                    "normalizedName": "L. Farinetti",
+                    "firstName": "L.",
+                    "lastName": "Farinetti",
+                    "searchablePreferredName": "L. Farinetti",
+                    "id": 37284298700
+                }
+            ],
+            "patentCitationCount": 0,
+            "accessType": {
+                "type": "locked",
+                "message": "Full text access may be available. Click article title to sign in or learn about subscription options."
+            },
+            "publicationYear": "2003",
+            "publicationNumber": "8840",
+            "documentLink": "/document/1250244/",
+            "articleNumber": "1250244",
+            "doi": "10.1109/TAI.2003.1250244",
+            "citationCount": 14,
+            "isNumber": "27974",
+            "publicationLink": "/xpl/conhome/8840/proceeding",
+            "ephemera": false,
+            "vj": false,
+            "pdfSize": "438",
+            "startPage": "580",
+            "endPage": "588",
+            "publicationDate": "5-5 Nov. 2003",
+            "rightslinkFlag": true,
+            "rightsLink": "http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=proceedings&title=DOSE%3A+a+distributed+open+semantic+elaboration+platform&isbn=null&publicationDate=5-5+Nov.+2003&author=D.+Bonino%3B+F.+Corno%3B+L.+Farinetti&ContentID=10.1109/TAI.2003.1250244&orderBeanReset=true&startPage=580&endPage=588&proceedingName=Proceedings.+15th+IEEE+International+Conference+on+Tools+with+Artificial+Intelligence",
+            "articleTitle": "DOSE: a distributed open semantic elaboration platform",
+            "downloadCount": 42,
+            "htmlLink": "/document/1250244/",
+            "citationsLink": "/document/1250244/citations?tabFilter=papers",
+            "showHtml": true,
+            "graphicalAbstract": {},
+            "showAlgorithm": false,
+            "showDataset": false,
+            "showVideo": false,
+            "publisher": "IEEE",
+            "redline": false,
+            "showCheckbox": true,
+            "handleProduct": false,
+            "contentType": "IEEE Conferences",
+            "publicationTitle": "Proceedings. 15th IEEE International Conference on Tools with Artificial Intelligence",
+            "displayPublicationTitle": "Proceedings. 15th IEEE International Conference on Tools with Artificial Intelligence",
+            "abstract": "The paper proposes a distributed open semantic elaboration platform based on a modular [::multilingual::] enabled architecture, which includes ontology, annotations, lexical entities and search functions. The platform is implemented as a distributed set of services including: semantic annotations for document substructures (e.g. chapters, sections, paragraphs), an external annotation repository (b...",
+            "articleContentType": "Conferences",
+            "pdfLink": "/stamp/stamp.jsp?tp=&arnumber=1250244",
+            "highlightedTitle": "DOSE: a distributed open semantic elaboration platform",
+            "isStandard": false,
+            "isConference": true,
+            "isJournalAndMagazine": false,
+            "isEarlyAccess": false,
+            "isMagazine": false,
+            "isJournal": false,
+            "isBook": false,
+            "course": false,
+            "isBookWithoutChapters": false,
+            "docIdentifier": "IEEE Conferences",
+            "displayContentType": "Conference Paper"
+        }
+    ],
+    "breadCrumbs": [
+        {
+            "type": "search",
+            "children": [
+                {
+                    "value": "((\"Knowledge Base*\" OR \"Knowledge Graph*\" OR \"DBpedia\" OR \"Wikidata\" OR \"YAGO\" OR \"Semantic Web\" OR \"Linked Data\" OR \"RDF\" OR \"data web\" OR \"SPARQL\" OR \"Query Graph\" OR \"Web data\" OR \"WWW\" OR \"web of data\" OR \"QALD*\" OR \"SimpleQuestions\" OR \"WebQuestions\" OR \"WebQSP\" OR \"LC-QuAD\" OR \"RuBQ\" OR \"SimpleDBpediaQA\" OR \"ComplexWebQuestions\" OR \"CWQ\") AND\n(\"Semantic search\" OR \"Question Answer*\" OR \"Question-Answer*\" OR \"KBQA\" OR \"KGQA\" OR \"KB QA\" OR \"KB-QA\" OR \"KG-QA\" OR \"KG QA\" OR \"NLI\" OR \"NLIDB\" OR \"QA\" OR \"Natural Language Interface\") AND\n(\"multilingual*\" OR \"multi-lingual\" OR \"crosslingual*\" OR \"cross-lingual\" OR \"cross linguistic\" OR \"internationalized\" OR \"multilingualism\" OR \"multilinguistic\" OR \"multilanguage\" OR \"bilingual\" OR \"many languages\" OR \"multiple languages\" OR \"several languages\" OR \"more than one language\"))",
+                    "reference": "((\"Knowledge Base*\" OR \"Knowledge Graph*\" OR \"DBpedia\" OR \"Wikidata\" OR \"YAGO\" OR \"Semantic Web\" OR \"Linked Data\" OR \"RDF\" OR \"data web\" OR \"SPARQL\" OR \"Query Graph\" OR \"Web data\" OR \"WWW\" OR \"web of data\" OR \"QALD*\" OR \"SimpleQuestions\" OR \"WebQuestions\" OR \"WebQSP\" OR \"LC-QuAD\" OR \"RuBQ\" OR \"SimpleDBpediaQA\" OR \"ComplexWebQuestions\" OR \"CWQ\") AND\n(\"Semantic search\" OR \"Question Answer*\" OR \"Question-Answer*\" OR \"KBQA\" OR \"KGQA\" OR \"KB QA\" OR \"KB-QA\" OR \"KG-QA\" OR \"KG QA\" OR \"NLI\" OR \"NLIDB\" OR \"QA\" OR \"Natural Language Interface\") AND\n(\"multilingual*\" OR \"multi-lingual\" OR \"crosslingual*\" OR \"cross-lingual\" OR \"cross linguistic\" OR \"internationalized\" OR \"multilingualism\" OR \"multilinguistic\" OR \"multilanguage\" OR \"bilingual\" OR \"many languages\" OR \"multiple languages\" OR \"several languages\" OR \"more than one language\"))",
+                    "display": "((\"Knowledge Base*\" OR \"Knowledge Graph*\" OR \"DBpedia\" OR \"Wikidata\" OR \"YAGO\" OR \"Semantic Web\" OR \"Linked Data\" OR \"RDF\" OR \"data web\" OR \"SPARQL\" OR \"Query Graph\" OR \"Web data\" OR \"WWW\" OR \"web of data\" OR \"QALD*\" OR \"SimpleQuestions\" OR \"WebQuestions\" OR \"WebQSP\" OR \"LC-QuAD\" OR \"RuBQ\" OR \"SimpleDBpediaQA\" OR \"ComplexWebQuestions\" OR \"CWQ\") AND\n(\"Semantic search\" OR \"Question Answer*\" OR \"Question-Answer*\" OR \"KBQA\" OR \"KGQA\" OR \"KB QA\" OR \"KB-QA\" OR \"KG-QA\" OR \"KG QA\" OR \"NLI\" OR \"NLIDB\" OR \"QA\" OR \"Natural Language Interface\") AND\n(\"multilingual*\" OR \"multi-lingual\" OR \"crosslingual*\" OR \"cross-lingual\" OR \"cross linguistic\" OR \"internationalized\" OR \"multilingualism\" OR \"multilinguistic\" OR \"multilanguage\" OR \"bilingual\" OR \"many languages\" OR \"multiple languages\" OR \"several languages\" OR \"more than one language\"))"
+                }
+            ]
+        }
+    ],
+    "showStandardDictionary": false,
+    "searchType": "basic",
+    "totalRecords": 19,
+    "totalPages": 1,
+    "startRecord": 0,
+    "facets": [
+        {
+            "id": "ContentType",
+            "name": "Content Type",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "ContentType:Conferences",
+                    "name": "Conferences",
+                    "numRecords": 16,
+                    "active": "true"
+                },
+                {
+                    "id": "ContentType:Journals",
+                    "name": "Journals",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "ContentType:Books",
+                    "name": "Books",
+                    "numRecords": 1,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "PublicationYear",
+            "name": "Year",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "PublicationYear:2003",
+                    "name": "2003",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2005",
+                    "name": "2005",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2008",
+                    "name": "2008",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2010",
+                    "name": "2010",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2012",
+                    "name": "2012",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2013",
+                    "name": "2013",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2014",
+                    "name": "2014",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2015",
+                    "name": "2015",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2016",
+                    "name": "2016",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2018",
+                    "name": "2018",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2019",
+                    "name": "2019",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2020",
+                    "name": "2020",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2021",
+                    "name": "2021",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationYear:2022",
+                    "name": "2022",
+                    "numRecords": 2,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "Author",
+            "name": "Author",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "Author:Andreas Both",
+                    "name": "Andreas Both",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Aleksandr Perevalov",
+                    "name": "Aleksandr Perevalov",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Jianyong Wang",
+                    "name": "Jianyong Wang",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:L. Farinetti",
+                    "name": "L. Farinetti",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Xiuxing Li",
+                    "name": "Xiuxing Li",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:S. Furui",
+                    "name": "S. Furui",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Zhichao Duan",
+                    "name": "Zhichao Duan",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:L. Zapf",
+                    "name": "L. Zapf",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Canjie Luo",
+                    "name": "Canjie Luo",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Xinyu Wang",
+                    "name": "Xinyu Wang",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:D. Bonino",
+                    "name": "D. Bonino",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Eero Hyvonen",
+                    "name": "Eero Hyvonen",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Kalervo Jarvelin",
+                    "name": "Kalervo Jarvelin",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:E. Whittaker",
+                    "name": "E. Whittaker",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Khaled Shaalan",
+                    "name": "Khaled Shaalan",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Patrick Juola",
+                    "name": "Patrick Juola",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:F. Corno",
+                    "name": "F. Corno",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Fraihat Salam",
+                    "name": "Fraihat Salam",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Walter Kasper",
+                    "name": "Walter Kasper",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Lahiru Hinguruduwa",
+                    "name": "Lahiru Hinguruduwa",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Yin Zhang",
+                    "name": "Yin Zhang",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Maurizio Atzori",
+                    "name": "Maurizio Atzori",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Yuliang Liu",
+                    "name": "Yuliang Liu",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:L. Sánchez-Fernández",
+                    "name": "L. Sánchez-Fernández",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Author:Yaser Jararweh",
+                    "name": "Yaser Jararweh",
+                    "numRecords": 1,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "Affiliation",
+            "name": "Affiliation",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "Affiliation:Anhalt University of Applied Sciences,Department of Computer Science and Languages,Köthen,Anhalt,Germany",
+                    "name": "Anhalt University of Applied Sciences,Department of Computer Science and Languages,Köthen,Anhalt,Germany",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:West China Hospital of Sichuan University,Department of Ultrasound,China",
+                    "name": "West China Hospital of Sichuan University,Department of Ultrasound,China",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Carlos III Univ. of Madrid, Leganes, Spain",
+                    "name": "Carlos III Univ. of Madrid, Leganes, Spain",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:University of Malaya",
+                    "name": "University of Malaya",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Department of IT, Al Khawarizmi International College, Al Ain, UAE",
+                    "name": "Department of IT, Al Khawarizmi International College, Al Ain, UAE",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Huawei Noah’s Ark Lab",
+                    "name": "Huawei Noah’s Ark Lab",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Data Science Group (DICE) University Paderborn,Paderborn,Germany",
+                    "name": "Data Science Group (DICE) University Paderborn,Paderborn,Germany",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Department of Computer Sciences, Xinjiang Branch of Chinese Academy of Sciences, Urumqi, Xinjiang Province, China",
+                    "name": "Department of Computer Sciences, Xinjiang Branch of Chinese Academy of Sciences, Urumqi, Xinjiang Province, China",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Dept. of Computer Science and Engineering, Thapar University, Patiala, Punjab, India",
+                    "name": "Dept. of Computer Science and Engineering, Thapar University, Patiala, Punjab, India",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:School of Informatics, University of Edinburg, Edinburgh, United Kingdom",
+                    "name": "School of Informatics, University of Edinburg, Edinburgh, United Kingdom",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:University of Tampere, Finland",
+                    "name": "University of Tampere, Finland",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Tsinghua University,Department of Computer Science .AND. Technology,Beijing,China",
+                    "name": "Tsinghua University,Department of Computer Science & Technology,Beijing,China",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Aalto University, Finland",
+                    "name": "Aalto University, Finland",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Sichuan Academy of Medical Sciences, Sichuan Provincial People’s Hospital,China",
+                    "name": "Sichuan Academy of Medical Sciences, Sichuan Provincial People’s Hospital,China",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:AKSW, Leipzig University of Applied Science",
+                    "name": "AKSW, Leipzig University of Applied Science",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:University of Adelaide",
+                    "name": "University of Adelaide",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Research Center for Multilingual Information, Technology, Xinjiang Technical Institute of Physics .AND. Chemistry, Chinese Academy of Sciences, Urumqi, Xinjiang Province, China",
+                    "name": "Research Center for Multilingual Information, Technology, Xinjiang Technical Institute of Physics & Chemistry, Chinese Academy of Sciences, Urumqi, Xinjiang Province, China",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:University of Hamburg,Department of Informatics,Hamburg,Germany",
+                    "name": "University of Hamburg,Department of Informatics,Hamburg,Germany",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Shandong University,School of Software,Jinan,China",
+                    "name": "Shandong University,School of Software,Jinan,China",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Knowledge Manage. Dept., German Res. Center for Artificial Intell. DFKI GmbH, Kaiserslautern, Germany",
+                    "name": "Knowledge Manage. Dept., German Res. Center for Artificial Intell. DFKI GmbH, Kaiserslautern, Germany",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:CNRS UMR 5516 Université de Lyon,Laboratoire Hubert Curien,France",
+                    "name": "CNRS UMR 5516 Université de Lyon,Laboratoire Hubert Curien,France",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Dept. of Comput. Sci., Tokyo Inst. of Technol., Japan",
+                    "name": "Dept. of Comput. Sci., Tokyo Inst. of Technol., Japan",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:University of Cagliari",
+                    "name": "University of Cagliari",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:South China University of Technology",
+                    "name": "South China University of Technology",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Affiliation:Fac. of Inf. Technol., AL-Ahliyya Amman Univ., Amman, Jordan",
+                    "name": "Fac. of Inf. Technol., AL-Ahliyya Amman Univ., Amman, Jordan",
+                    "numRecords": 1,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "PublicationTitle",
+            "name": "Publication Title",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "PublicationTitle:2022 IEEE 16th International Conference on Semantic Computing (ICSC)",
+                    "name": "2022 IEEE 16th International Conference on Semantic Computing (ICSC)",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2005 International Conference on Cyberworlds (CW'05)",
+                    "name": "2005 International Conference on Cyberworlds (CW'05)",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2008 IEEE International Conference on Semantic Computing",
+                    "name": "2008 IEEE International Conference on Semantic Computing",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2010 IEEE 2nd Symposium on Web Society",
+                    "name": "2010 IEEE 2nd Symposium on Web Society",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2013 Fourth International Conference on Emerging Intelligent Data and Web Technologies",
+                    "name": "2013 Fourth International Conference on Emerging Intelligent Data and Web Technologies",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2014 IEEE International Conference on Advanced Communications, Control and Computing Technologies",
+                    "name": "2014 IEEE International Conference on Advanced Communications, Control and Computing Technologies",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2015 10th International Conference on Intelligent Systems and Knowledge Engineering (ISKE)",
+                    "name": "2015 10th International Conference on Intelligent Systems and Knowledge Engineering (ISKE)",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2018 IEEE International Conference on Progress in Informatics and Computing (PIC)",
+                    "name": "2018 IEEE International Conference on Progress in Informatics and Computing (PIC)",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2019 IEEE Second International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)",
+                    "name": "2019 IEEE Second International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+                    "name": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2021 IEEE 15th International Conference on Semantic Computing (ICSC)",
+                    "name": "2021 IEEE 15th International Conference on Semantic Computing (ICSC)",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)",
+                    "name": "2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:2021 IEEE International Conference on Big Knowledge (ICBK)",
+                    "name": "2021 IEEE International Conference on Big Knowledge (ICBK)",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Access",
+                    "name": "IEEE Access",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:IEEE Transactions on Knowledge and Data Engineering",
+                    "name": "IEEE Transactions on Knowledge and Data Engineering",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:Proceedings. 15th IEEE International Conference on Tools with Artificial Intelligence",
+                    "name": "Proceedings. 15th IEEE International Conference on Tools with Artificial Intelligence",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:Publishing and Using Cultural Heritage Linked Data on the Semantic Web",
+                    "name": "Publishing and Using Cultural Heritage Linked Data on the Semantic Web",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "PublicationTitle:The 2nd European Workshop on the Integration of Knowledge, Semantics and Digital Media Technology, 2005. EWIMT 2005. (Ref. No. 2005/11099)",
+                    "name": "The 2nd European Workshop on the Integration of Knowledge, Semantics and Digital Media Technology, 2005. EWIMT 2005. (Ref. No. 2005/11099)",
+                    "numRecords": 1,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "Publisher",
+            "name": "Publisher",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "Publisher:IEEE",
+                    "name": "IEEE",
+                    "numRecords": 17,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:IET",
+                    "name": "IET",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "Publisher:Morgan .AND. Claypool",
+                    "name": "Morgan & Claypool",
+                    "numRecords": 1,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "ConferenceLocation",
+            "name": "Conference Location",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "ConferenceLocation:Laguna Hills, CA, USA",
+                    "name": "Laguna Hills, CA, USA",
+                    "numRecords": 3,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Auckland, New Zealand",
+                    "name": "Auckland, New Zealand",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Beijing, China",
+                    "name": "Beijing, China",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:London, UK",
+                    "name": "London, UK",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Nice, France",
+                    "name": "Nice, France",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Ramanathapuram, India",
+                    "name": "Ramanathapuram, India",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Sacramento, CA, USA",
+                    "name": "Sacramento, CA, USA",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Santa Monica, CA, USA",
+                    "name": "Santa Monica, CA, USA",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Sardinia, Italy",
+                    "name": "Sardinia, Italy",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Seattle, WA, USA",
+                    "name": "Seattle, WA, USA",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Singapore",
+                    "name": "Singapore",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Suzhou, China",
+                    "name": "Suzhou, China",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Taipei, Taiwan",
+                    "name": "Taipei, Taiwan",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ConferenceLocation:Xi'an, China",
+                    "name": "Xi'an, China",
+                    "numRecords": 1,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        },
+        {
+            "id": "ControlledTerms",
+            "name": "Publication Topics",
+            "numRecords": -1,
+            "children": [
+                {
+                    "id": "ControlledTerms:natural language processing",
+                    "name": "natural language processing",
+                    "numRecords": 8,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:question answering (information retrieval)",
+                    "name": "question answering (information retrieval)",
+                    "numRecords": 6,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:information retrieval",
+                    "name": "information retrieval",
+                    "numRecords": 5,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:semantic Web",
+                    "name": "semantic Web",
+                    "numRecords": 5,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:Internet",
+                    "name": "Internet",
+                    "numRecords": 4,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:ontologies (artificial intelligence)",
+                    "name": "ontologies (artificial intelligence)",
+                    "numRecords": 4,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:search engines",
+                    "name": "search engines",
+                    "numRecords": 4,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:text analysis",
+                    "name": "text analysis",
+                    "numRecords": 4,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:Web sites",
+                    "name": "Web sites",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:knowledge based systems",
+                    "name": "knowledge based systems",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:natural languages",
+                    "name": "natural languages",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:query formulation",
+                    "name": "query formulation",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:query processing",
+                    "name": "query processing",
+                    "numRecords": 2,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:Java",
+                    "name": "Java",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:XML",
+                    "name": "XML",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:artificial intelligence",
+                    "name": "artificial intelligence",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:classification",
+                    "name": "classification",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:computational linguistics",
+                    "name": "computational linguistics",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:data handling",
+                    "name": "data handling",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:data visualisation",
+                    "name": "data visualisation",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:document handling",
+                    "name": "document handling",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:formal languages",
+                    "name": "formal languages",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:grammars",
+                    "name": "grammars",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:health care",
+                    "name": "health care",
+                    "numRecords": 1,
+                    "active": "true"
+                },
+                {
+                    "id": "ControlledTerms:image processing",
+                    "name": "image processing",
+                    "numRecords": 1,
+                    "active": "true"
+                }
+            ],
+            "active": "true"
+        }
+    ],
+    "endRecord": 19,
+    "subscribedContentApplied": false,
+    "promoApplied": false
+}
