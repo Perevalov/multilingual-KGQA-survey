@@ -8,7 +8,7 @@ Here the commands for automatic literature search are listed. We use the followi
 * [ACL Anthology](https://aclanthology.org/)
 * [Cyberleninka](https://cyberleninka.ru/)
 
-And we search for publications published between 2011 and 2022 years.
+And we search for publications published between 2011 and 2023 years.
 
 ## Intuition behind the queries
 
@@ -26,7 +26,7 @@ Note: only English data (no results in German or Russian).
 1. Go to "Command Search";
 1. Paste/enter the query and "Search";
 1. Choose ONLY Conferences and Journals. --> "Apply";
-1. Set the Year Range 2011-2022. --> "Apply".
+1. Set the Year Range 2011-2023. --> "Apply".
 
 Search anywhere.
 
@@ -45,7 +45,7 @@ Note: only English data (German supported but no relevant results).
 
 1. Go to "Advanced Search";
 1. Paste/enter the three conditions;
-1. In "Publication Date", use the custom range 2011, 2022. --> "Search";
+1. In "Publication Date", use the custom range 2011, 2023. --> "Search";
 
 The query:
 ```
@@ -63,7 +63,7 @@ The query:
 Note: English and German data.
 
 1. Select "Computer Science" discipline;
-1. Enter "Date published" between 2011 and 2022;
+1. Enter "Date published" between 2011 and 2023;
 1. Enter the query to the Search field and press search button;
 1. Refine the search by selecting "Content type" either: Chapter or Article;
 1. Optional: refine by language (English or German).
@@ -89,7 +89,7 @@ The German query:
 Note: only English data (German supported, but no relevant results)
 
 1. Enter the query to the Search field and press search button;
-1. Refine the search by selecting years of publication between 2011 and 2022;
+1. Refine the search by selecting years of publication between 2011 and 2023;
 
 The query:
 ```
