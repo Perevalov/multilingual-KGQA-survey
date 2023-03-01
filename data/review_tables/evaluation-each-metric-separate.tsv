@@ -1,0 +1,135 @@
+System	Accuracy	Precision	Recall	F1	Language	Reported by
+WDAqua-core0				31 (Global)	en	https://arxiv.org/pdf/2105.00811.pdf
+				27 (Micro)		
+				14 (Macro)		
+N. Aggarwal		44	48	46	de	
+QAKiS		39	37	38	en	https://hal.inria.fr/hal-01171115/
+WDAqua-core0				32 (Global)	en	https://arxiv.org/pdf/2105.00811.pdf
+				17 (Micro)		
+				16 (Macro)		
+WDAqua-core0				21 (Global)	en	https://arxiv.org/pdf/2105.00811.pdf
+				23 (Micro)		
+				11 (Macro)		
+WDAqua-core1		64	42	51	en	https://www.semantic-web-journal.net/system/files/swj2038.pdf
+		79	28	42	de	
+		83	27	41	fr	
+		77	24	37	es	
+		79	23	36	it	
+WDAqua-core0				21 (Global)	en	https://arxiv.org/pdf/2105.00811.pdf
+				17 (Micro)		
+				12 (Macro)		
+WDAqua-core1		56	30	39	en	https://www.semantic-web-journal.net/system/files/swj2038.pdf
+		90	20	32	de	
+		92	20	32	it	
+		90	20	32	es	
+		86	18	29	fr	
+UTQA				65.2	en	https://www.semantic-web-journal.net/system/files/swj2038.pdf
+		55	53	54	es	https://www.semantic-web-journal.net/system/files/swj2038.pdf
+		53	51	52	fa	https://www.semantic-web-journal.net/system/files/swj2038.pdf
+WDAqua-core0				31 (Global)	en	https://arxiv.org/pdf/2105.00811.pdf
+				19 (Micro)		
+				18 (Macro)		
+WDAqua-core1		56	41	47	en	https://www.semantic-web-journal.net/system/files/swj2038.pdf
+		88	18	30	it	
+		92	16	28	de	
+		90	16	28	fr	
+		88	14	25	es	
+AMUSE				34	en	
+				37	de	
+				42	es	
+WDAqua-core0				36 (Global)	en	https://arxiv.org/pdf/2105.00811.pdf
+				15 (Micro)		
+				24 (Macro)		
+WDAqua-core1		55	34	42	en	https://www.semantic-web-journal.net/system/files/swj2038.pdf
+		73	29	41	de	
+		57	22	32	fr	
+		69	19	30	es	
+		62	15	24	it	
+WDAqua-core0				39 (Global)	en	https://arxiv.org/pdf/2105.00811.pdf
+				19 (Micro)		
+				29 (Macro)		
+		12.3	13.1	12.7	fr	
+		22	26.4	24	de	
+		16.4	18.4	17.3	it	
+WDAqua-core1		39	40	37	en	https://www.semantic-web-journal.net/system/files/swj2038.pdf
+		23	26	22	de	
+		13	16	14	fr	
+		9	5	3	it	
+MuG-QA				67.7 (Micro)	en	
+				56.6 (Micro)	fr	
+				65.6 (Micro)	it	
+				61.3 (Micro)	de	
+LAMA				90.5	en	https://www.semantic-web-journal.net/system/files/swj2537.pdf
+WDAqua-core0				43 (Global)	en	https://arxiv.org/pdf/2105.00811.pdf
+				17 (Micro)		
+				33 (Macro)		
+WDAqua-core1		39	40	39	en	https://www.semantic-web-journal.net/system/files/swj2038.pdf
+QAKiS		6.1	5.28	5.63	en	https://link.springer.com/article/10.1007/s13740-021-00128-9
+WDAqua-core0				43 (Global)	en	https://arxiv.org/pdf/2105.00811.pdf
+				20 (Micro)		
+				32 (Macro)		
+QAnswer		45.9	22.2	19.7	en	http://www.semantic-web-journal.net/system/files/swj2701.pdf
+Y. Zhou				64.6	en	https://aclanthology.org/2021.naacl-main.465.pdf
+				57.6	fa	
+				56.1	de	
+				61.4	ro	
+				50.9	it	
+				59.4	ru	
+				58.2	fr	
+				32.1	nl	
+				52.2	es	
+				60.6	hi_IN	
+				57.4	pt	
+				66.1	pt_BR	
+QAnswer				30.39	en	
+				19.98	de	
+				9.57	ru	
+				15.06	fr	
+Platypus		15.89	15.26	15.03	en	https://dl.acm.org/doi/pdf/10.1145/3485447.3511940
+		4.17	4.17	4.17	fr	
+QAnswer		50.46	44.84	44.59	en	https://dl.acm.org/doi/pdf/10.1145/3485447.3511940
+		33.05	32.44	31.71	de	
+		22.29	22.23	21.43	ru	
+		25.32	25.35	23	fr	
+DeepPavlov		17.65	11.3	12.4	en	https://dl.acm.org/doi/pdf/10.1145/3485447.3511940
+		9.56	8.33	8.7	ru	
+QAnswer-HelsinkiNLP-de-en				36.57	de	
+DeepPavlov-Yandex-de-en				13.92	de	
+Platypus-HelsinkiNLP-de-en				14.26	de	
+QAnswer-Yandex-ru-en				38.98	ru	
+DeepPavlov-Yandex-ru-en				11.61	ru	
+Platypus-Yandex-ru-en				15.11	ru	
+QAnswer-Yandex-fr-en				36.57	fr	
+DeepPavlov-Yandex-fr-en				22.73	fr	
+Platypus-Yandex-fr-en				21.05	fr	
+QAnswer-HelsinkiNLP-lt-de				39.49	lt	
+DeepPavlov-Yandex-lt-en				11.73	lt	
+Platypus-Yandex-lt-en				15.94	lt	
+QAnswer-Yandex-uk-de				39.17	uk	
+DeepPavlov-Yandex-uk-en				11.37	uk	
+Platypus-Yandex-uk-en				14.17	uk	
+QAnswer-Yandex-be-en				45.62	be	
+DeepPavlov-Yandex-be-ru				9.09	be	
+Platypus-Yandex-be-en				9.09	be	
+QAnswer-Yandex-hy-de				29.5	hy	
+DeepPavlov-Yandex-hy-en				12.21	hy	
+Platypus-Yandex-hy-en				15.79	hy	
+QAnswer-Yandex-ba-en				28.44	ba	
+DeepPavlov-Yandex-ba-en				9.86	ba	
+Platypus-Yandex-ba-en				7.95	ba	
+WDAqua-core0				20	en	https://arxiv.org/pdf/2105.00811.pdf
+				3		
+				15		
+LAMA				81.6	en	https://www.semantic-web-journal.net/system/files/swj2537.pdf
+UDepLambda				49.5	en	
+				46.1	de	
+				47.5	es	
+UDepLambda				17.7	en	
+				9.5	de	
+				12.8	es	
+DeepPavlov	25.33				ru	https://arxiv.org/pdf/2005.10659.pdf
+QAnswer	19.25				en	https://openreview.net/pdf?id=P5UQFFoQ4PJ
+	19.25				ru	https://openreview.net/pdf?id=P5UQFFoQ4PJ
+DeepPavlov	29.31				ru	https://openreview.net/pdf?id=P5UQFFoQ4PJ
+QAnswer	24.46				en	
+	23.21				ru	

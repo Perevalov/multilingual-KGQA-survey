@@ -1,0 +1,135 @@
+System	Metric Value	Metric Name	Language	Dataset	Reported by	Reported year
+WDAqua-core0	31.0	F1 Global	en	QALD-1	\cite{orogat2021cbench}	2021
+	27.0	F1 Micro				
+	14.0	F1 Macro				
+N. Aggarwal	46.0	F1	de	QALD-2	\cite{aggarwal}	2012
+QAKiS	38.0		en		\cite{cabrio2012qakis}	
+WDAqua-core0	32.0	F1 Global	en		\cite{orogat2021cbench}	2021
+	17.0	F1 Micro				
+	16.0	F1 Macro				
+WDAqua-core0	21.0	F1 Global	en	QALD-3		
+	23.0	F1 Micro				
+	11.0	F1 Macro				
+WDAqua-core1	51.0	F1	en		\cite{diefenbach2020towards}	2020
+	42.0		de			
+	41.0		fr			
+	37.0		es			
+	36.0		it			
+WDAqua-core0	21.0	F1 Global	en	QALD-4	\cite{orogat2021cbench}	2021
+	17.0	F1 Micro				
+	12.0	F1 Macro				
+WDAqua-core1	39.0	F1	en		\cite{diefenbach2020towards}	2020
+	32.0		de			
+	32.0		it			
+	32.0		es			
+	29.0		fr			
+UTQA	65.0		en	QALD-5		
+	54.0		es			
+	52.0		fa			
+WDAqua-core0	31.0	F1 Global	en		\cite{orogat2021cbench}	2021
+	19.0	F1 Micro				
+	18.0	F1 Macro				
+WDAqua-core1	47.0	F1	en		\cite{diefenbach2020towards}	2020
+	30.0		it			
+	28.0		de			
+	28.0		fr			
+	25.0		es			
+AMUSE	34.0		en	QALD-6	\cite{amuse}	2017
+	37.0		de			
+	42.0		es			
+WDAqua-core0	36.0	F1 Global	en		\cite{orogat2021cbench}	2021
+	15.0	F1 Micro				
+	24.0	F1 Macro				
+WDAqua-core1	42.0	F1	en		\cite{diefenbach2020towards}	2020
+	41.0		de			
+	32.0		fr			
+	30.0		es			
+	24.0		it			
+WDAqua-core0	39.0	F1 Global	en	QALD-7	\cite{orogat2021cbench}	2021
+	19.0	F1 Micro				
+	29.0	F1 Macro				
+	12.7	F1	fr		\cite{wdaquacore0}	2017
+	24.0		de			
+	17.3		it			
+WDAqua-core1	37.0		en		\cite{diefenbach2020towards}	2020
+	22.0		de			
+	14.0		fr			
+	3.0		it			
+MuG-QA	67.7	F1 Micro	en		\cite{mugqa}	2018
+	56.6		fr			
+	65.6		it			
+	61.3		de			
+LAMA	90.5	F1	en		\cite{radoev65french}	2019
+WDAqua-core0	43.0	F1 Global	en	QALD-8	\cite{orogat2021cbench}	2021
+	17.0	F1 Micro				
+	33.0	F1 Macro				
+WDAqua-core1	39.0	F1			\cite{diefenbach2020towards}	2020
+QAKiS	5.6				\cite{steinmetz2021kgqa}	2021
+WDAqua-core0	43.0	F1 Global		QALD-9	\cite{orogat2021cbench}	2021
+	20.0	F1 Micro				
+	32.0	F1 Macro				
+QAnswer	19.7	F1			\cite{siciliani2022mqald}	
+Y. Zhou	64.6				\cite{zhou-etal-2021-improving}	
+	57.6		fa			
+	56.1		de			
+	61.4		ro			
+	50.9		it			
+	59.4		ru			
+	58.2		fr			
+	32.1		nl			
+	52.2		es			
+	60.6		hi_IN			
+	57.4		pt			
+	66.1		pt_BR			
+QAnswer	30.4		en	QALD-9-Plus (DBpedia)	\cite{perevalov2022qald}	2022
+	20.0		de			
+	9.6		ru			
+	15.1		fr			
+Platypus	15.0		en	QALD-9-Plus (Wikidata)	\cite{perevalovMt}	2022
+	4.2		fr			
+QAnswer	44.6		en			
+	31.7		de			
+	21.4		ru			
+	23.0		fr			
+DeepPavlov	12.4		en			
+	8.7		ru			
+QAnswer-HelsinkiNLP-de-en	36.6		de			
+DeepPavlov-Yandex-de-en	13.9					
+Platypus-HelsinkiNLP-de-en	14.3					
+QAnswer-Yandex-ru-en	39.0		ru			
+DeepPavlov-Yandex-ru-en	11.6					
+Platypus-Yandex-ru-en	15.1					
+QAnswer-Yandex-fr-en	36.6		fr			
+DeepPavlov-Yandex-fr-en	22.7					
+Platypus-Yandex-fr-en	21.1					
+QAnswer-HelsinkiNLP-lt-de	39.5		lt			
+DeepPavlov-Yandex-lt-en	11.7					
+Platypus-Yandex-lt-en	15.9					
+QAnswer-Yandex-uk-de	39.2		uk			
+DeepPavlov-Yandex-uk-en	11.4					
+Platypus-Yandex-uk-en	14.2					
+QAnswer-Yandex-be-en	45.6		be			
+DeepPavlov-Yandex-be-ru	9.1					
+Platypus-Yandex-be-en	9.1					
+QAnswer-Yandex-hy-de	29.5		hy			
+DeepPavlov-Yandex-hy-en	12.2					
+Platypus-Yandex-hy-en	15.8					
+QAnswer-Yandex-ba-en	28.4		ba			
+DeepPavlov-Yandex-ba-en	9.9					
+Platypus-Yandex-ba-en	8.0					
+WDAqua-core0	20.0	F1 Global	en	LC-QuAD 1.0	\cite{orogat2021cbench}	2021
+	3.0	F1 Micro				
+	15.0	F1 Macro				
+LAMA	81.6	F1			\cite{radoev65french}	2019
+UDepLambda	49.5			WebQuestions	\cite{reddy-etal-2017-universal}	2017
+	46.1		de			
+	47.5		es			
+	17.7		en	GraphQuestions		
+	9.5		de			
+	12.8		es			
+DeepPavlov	25.3	Accuracy	ru	RuBQ 1.0	\cite{rybin2021rubq}	2021
+QAnswer	19.3		en			
+	19.3		ru			
+DeepPavlov	29.3			RuBQ 2.0		
+QAnswer	24.5		en			
+	23.2		ru			
