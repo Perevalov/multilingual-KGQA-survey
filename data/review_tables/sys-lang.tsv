@@ -1,0 +1,67 @@
+Language	System	Language Family	Language Branch	Language Subgroup	Writing System	Script/Alphabet	Name
+en	QALL-ME	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+en	N. Aggarwal	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+en	QAKiS	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+en	SWSNL	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+en	UTQA	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+en	AMUSE	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+en	WDAqua-core0	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+en	UDepLambda	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+en	MuG-QA	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+en	WDAqua-core1	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+en	LAMA	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+en	Platypus	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+en	QAnswer	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+en	DeepPavlov	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+en	Y. Zhou	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+en	A. Perevalov	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+en	Tiresias	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+de	QALL-ME	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
+de	N. Aggarwal	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
+de	AMUSE	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
+de	WDAqua-core0	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
+de	UDepLambda	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
+de	MuG-QA	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
+de	WDAqua-core1	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
+de	QAnswer	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
+de	Y. Zhou	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
+de	A. Perevalov	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
+es	QALL-ME	Indo-European	Italic	Romance	Alphabetical	Latin	Spanish
+es	UTQA	Indo-European	Italic	Romance	Alphabetical	Latin	Spanish
+es	AMUSE	Indo-European	Italic	Romance	Alphabetical	Latin	Spanish
+es	UDepLambda	Indo-European	Italic	Romance	Alphabetical	Latin	Spanish
+es	WDAqua-core1	Indo-European	Italic	Romance	Alphabetical	Latin	Spanish
+es	QAnswer	Indo-European	Italic	Romance	Alphabetical	Latin	Spanish
+es	Y. Zhou	Indo-European	Italic	Romance	Alphabetical	Latin	Spanish
+it	QALL-ME	Indo-European	Italic	Romance	Alphabetical	Latin	Italian
+it	WDAqua-core0	Indo-European	Italic	Romance	Alphabetical	Latin	Italian
+it	MuG-QA	Indo-European	Italic	Romance	Alphabetical	Latin	Italian
+it	WDAqua-core1	Indo-European	Italic	Romance	Alphabetical	Latin	Italian
+it	QAnswer	Indo-European	Italic	Romance	Alphabetical	Latin	Italian
+it	Y. Zhou	Indo-European	Italic	Romance	Alphabetical	Latin	Italian
+fr	QAKiS	Indo-European	Italic	Romance	Alphabetical	Latin	French
+fr	WDAqua-core0	Indo-European	Italic	Romance	Alphabetical	Latin	French
+fr	MuG-QA	Indo-European	Italic	Romance	Alphabetical	Latin	French
+fr	WDAqua-core1	Indo-European	Italic	Romance	Alphabetical	Latin	French
+fr	LAMA	Indo-European	Italic	Romance	Alphabetical	Latin	French
+fr	Platypus	Indo-European	Italic	Romance	Alphabetical	Latin	French
+fr	QAnswer	Indo-European	Italic	Romance	Alphabetical	Latin	French
+fr	A. Perevalov	Indo-European	Italic	Romance	Alphabetical	Latin	French
+cs	SWSNL	Indo-European	Balto-Slavic	West Slavic	Alphabetical	Latin	Czech
+fa	UTQA	Indo-European	Indo-Iranian	Western Iranian	Abjad	Persian	Persian
+fa	Y. Zhou	Indo-European	Indo-Iranian	Western Iranian	Abjad	Persian	Persian
+pt	QAnswer	Indo-European	Italic	Romance	Alphabetical	Latin	Portuguese
+pt	Y. Zhou	Indo-European	Italic	Romance	Alphabetical	Latin	Portuguese
+ar	QAnswer	Afro-Asiatic	Semitic	Central Semitic	Abjad	Arabic	Arabic
+zh	QAnswer	Sino-Tibetan	Sinitic	Chinese	Logogram, Syllabary	Chinese	Chinese
+ru	DeepPavlov	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Russian
+ru	QAnswer	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Russian
+ru	A. Perevalov	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Russian
+ro	Y. Zhou	Indo-European	Italic	Romance	Alphabetical	Latin	Romanian
+hi	Y. Zhou	Indo-European	Indo-Iranian	Central 	Abugida	Indic	Hindi
+uk	A. Perevalov	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Ukrainian
+lt	A. Perevalov	Indo-European	Balto-Slavic	Eastern Baltic	Alphabetical	Latin	Lithuanian
+be	A. Perevalov	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Belarusian
+ba	A. Perevalov	Turkic	Common Turkic	North Kipchak	Alphabetical	Cyrillic	Bashkir
+hy	A. Perevalov	Indo-European	Armenian	Armenian	Alphabetical	Armenian	Armenian
+gr	Tiresias	Indo-European	Graeco-Phrygian	Greek	Alphabetical	Greek	Greek

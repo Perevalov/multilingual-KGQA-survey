@@ -1,0 +1,47 @@
+Dataset	Language	Language Family	Language Branch	Language Subgroup	Writing System	Script/Alphabet	Name
+QALD-9	en	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+QALD-9	de	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
+QALD-9	ru	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Russian
+QALD-9	pt	Indo-European	Italic	Romance	Alphabetical	Latin	Portuguese
+QALD-9	hi	Indo-European	Indo-Iranian	Central 	Abugida	Indic	Hindi
+QALD-9	fa	Indo-European	Indo-Iranian	Western Iranian	Abjad	Persian	Persian
+QALD-9	it	Indo-European	Italic	Romance	Alphabetical	Latin	Italian
+QALD-9	fr	Indo-European	Italic	Romance	Alphabetical	Latin	French
+QALD-9	ro	Indo-European	Italic	Romance	Alphabetical	Latin	Romanian
+QALD-9	es	Indo-European	Italic	Romance	Alphabetical	Latin	Spanish
+QALD-9	nl	Indo-European	Germanic	Weser-Rhine Germanic	Alphabetical	Latin	Dutch
+QALD-9-plus	en	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+QALD-9-plus	de	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
+QALD-9-plus	fr	Indo-European	Italic	Romance	Alphabetical	Latin	French
+QALD-9-plus	ru	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Russian
+QALD-9-plus	uk	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Ukrainian
+QALD-9-plus	lt	Indo-European	Balto-Slavic	Eastern Baltic	Alphabetical	Latin	Lithuanian
+QALD-9-plus	be	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Belarusian
+QALD-9-plus	ba	Turkic	Common Turkic	North Kipchak	Alphabetical	Cyrillic	Bashkir
+QALD-9-plus	hy	Indo-European	Armenian	Armenian	Alphabetical	Armenian	Armenian
+rewordQALD9	en	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+rewordQALD9	it	Indo-European	Italic	Romance	Alphabetical	Latin	Italian
+QALD-10	en	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+QALD-10	de	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
+QALD-10	zh	Sino-Tibetan	Sinitic	Chinese	Logogram, Syllabary	Chinese	Chinese
+QALD-10	ru	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Russian
+EventQA	en	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+EventQA	de	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
+EventQA	pt	Indo-European	Italic	Romance	Alphabetical	Latin	Portuguese
+RuBQ 1.0	en	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+RuBQ 1.0	ru	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Russian
+RuBQ 2.0	en	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+RuBQ 2.0	ru	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Russian
+CWQ	en	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+CWQ	he	Afro-Asiatic	Semitic	Central Semitic	Abjad	Hebrew	Hebrew
+CWQ	kn	Dravidian	Southern	Kannada–Badaga	Abugida	Kannada	Kannada
+CWQ	zh	Sino-Tibetan	Sinitic	Chinese	Logogram, Syllabary	Chinese	Chinese
+Mintaka	en	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+Mintaka	ar	Afro-Asiatic	Semitic	Central Semitic	Abjad	Arabic	Arabic
+Mintaka	de	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
+Mintaka	ja	Japonic	Japanese	Japanese	Logogram, Syllabary	Kanji, Kana	Japanese
+Mintaka	hi	Indo-European	Indo-Iranian	Central 	Abugida	Indic	Hindi
+Mintaka	pt	Indo-European	Italic	Romance	Alphabetical	Latin	Portuguese
+Mintaka	es	Indo-European	Italic	Romance	Alphabetical	Latin	Spanish
+Mintaka	it	Indo-European	Italic	Romance	Alphabetical	Latin	Italian
+Mintaka	fr	Indo-European	Italic	Romance	Alphabetical	Latin	French
