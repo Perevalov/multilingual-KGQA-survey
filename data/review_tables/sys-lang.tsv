@@ -16,6 +16,9 @@ en	DeepPavlov	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	Engli
 en	Y. Zhou	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
 en	A. Perevalov	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
 en	Tiresias	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+en	DeepPavlov 2023	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+en	XSemPLR	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+en	CLRN	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
 de	QALL-ME	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
 de	N. Aggarwal	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
 de	AMUSE	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
@@ -47,6 +50,7 @@ fr	LAMA	Indo-European	Italic	Romance	Alphabetical	Latin	French
 fr	Platypus	Indo-European	Italic	Romance	Alphabetical	Latin	French
 fr	QAnswer	Indo-European	Italic	Romance	Alphabetical	Latin	French
 fr	A. Perevalov	Indo-European	Italic	Romance	Alphabetical	Latin	French
+fr	CLRN	Indo-European	Italic	Romance	Alphabetical	Latin	French
 cs	SWSNL	Indo-European	Balto-Slavic	West Slavic	Alphabetical	Latin	Czech
 fa	UTQA	Indo-European	Indo-Iranian	Western Iranian	Abjad	Persian	Persian
 fa	Y. Zhou	Indo-European	Indo-Iranian	Western Iranian	Abjad	Persian	Persian
@@ -54,9 +58,12 @@ pt	QAnswer	Indo-European	Italic	Romance	Alphabetical	Latin	Portuguese
 pt	Y. Zhou	Indo-European	Italic	Romance	Alphabetical	Latin	Portuguese
 ar	QAnswer	Afro-Asiatic	Semitic	Central Semitic	Abjad	Arabic	Arabic
 zh	QAnswer	Sino-Tibetan	Sinitic	Chinese	Logogram, Syllabary	Chinese	Chinese
+zh	XSemPLR	Sino-Tibetan	Sinitic	Chinese	Logogram, Syllabary	Chinese	Chinese
+zh	CLRN	Sino-Tibetan	Sinitic	Chinese	Logogram, Syllabary	Chinese	Chinese
 ru	DeepPavlov	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Russian
 ru	QAnswer	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Russian
 ru	A. Perevalov	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Russian
+ru	DeepPavlov 2023	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Russian
 ro	Y. Zhou	Indo-European	Italic	Romance	Alphabetical	Latin	Romanian
 hi	Y. Zhou	Indo-European	Indo-Iranian	Central 	Abugida	Indic	Hindi
 uk	A. Perevalov	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Ukrainian
@@ -65,3 +72,5 @@ be	A. Perevalov	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Bel
 ba	A. Perevalov	Turkic	Common Turkic	North Kipchak	Alphabetical	Cyrillic	Bashkir
 hy	A. Perevalov	Indo-European	Armenian	Armenian	Alphabetical	Armenian	Armenian
 gr	Tiresias	Indo-European	Graeco-Phrygian	Greek	Alphabetical	Greek	Greek
+he	XSemPLR	Afro-Asiatic	Semitic	Central Semitic	Abjad	Hebrew	Hebrew
+kn	XSemPLR	Dravidian	Southern	Kannada–Badaga	Abugida	Kannada	Kannada
