@@ -133,3 +133,70 @@ QAnswer	19.3		en
 DeepPavlov	29.3			RuBQ 2.0		
 QAnswer	24.5		en			
 	23.2		ru			
+Tiresias	63	Correctness	gr	GreekTexts	\cite{mountantonakis2022tiresias}	2022
+DeepPavlov 2023	53.1	Accuracy	ru	RuBQ 2.0	\cite{deeppavlov2023}	2023
+	47	F1	en	LC-QuAD 1.0	\cite{deeppavlov2023}	2023
+QAnswer	23.2	Accuracy	ru	RuBQ 2.0	\cite{deeppavlov2023}	2023
+	28	F1	en	LC-QuAD 1.0	\cite{deeppavlov2023}	2023
+XSemPLR (monolingual LSTM)	92	Exact match	en	MCWQ	\cite{TAN2023120721}	2023
+	75.1	Exact match	zh	MCWQ	\cite{TAN2023120721}	2023
+	74	Exact match	he	MCWQ	\cite{TAN2023120721}	2023
+	77.7	Exact match	kn	MCWQ	\cite{TAN2023120721}	2023
+XSemPLR (monolingual mBERT + PTR)	35.49	Exact match	en	MCWQ	\cite{TAN2023120721}	2023
+	22.38	Exact match	zh	MCWQ	\cite{TAN2023120721}	2023
+	24.38	Exact match	he	MCWQ	\cite{TAN2023120721}	2023
+	11.57	Exact match	kn	MCWQ	\cite{TAN2023120721}	2023
+XSemPLR (monolingual XLM-R+PTR)	37.19	Exact match	en	MCWQ	\cite{TAN2023120721}	2023
+	19.29	Exact match	zh	MCWQ	\cite{TAN2023120721}	2023
+	14.66	Exact match	he	MCWQ	\cite{TAN2023120721}	2023
+	22.99	Exact match	kn	MCWQ	\cite{TAN2023120721}	2023
+XSemPLR (monolingual mBART)	38.12	Exact match	en	MCWQ	\cite{TAN2023120721}	2023
+	25.35	Exact match	zh	MCWQ	\cite{TAN2023120721}	2023
+	33.95	Exact match	he	MCWQ	\cite{TAN2023120721}	2023
+	22.69	Exact match	kn	MCWQ	\cite{TAN2023120721}	2023
+XSemPLR (monolingual mT5)	39.29	Exact match	en	MCWQ	\cite{TAN2023120721}	2023
+	24.56	Exact match	zh	MCWQ	\cite{TAN2023120721}	2023
+	33.02	Exact match	he	MCWQ	\cite{TAN2023120721}	2023
+	23.74	Exact match	kn	MCWQ	\cite{TAN2023120721}	2023
+XSemPLR (monolingual few-shot XLM-R+PTR)	9.41	Exact match	en	MCWQ	\cite{TAN2023120721}	2023
+	6.02	Exact match	zh	MCWQ	\cite{TAN2023120721}	2023
+	1.08	Exact match	he	MCWQ	\cite{TAN2023120721}	2023
+	6.02	Exact match	kn	MCWQ	\cite{TAN2023120721}	2023
+XSemPLR (monolingual few-shot mT5)	10.8	Exact match	en	MCWQ	\cite{TAN2023120721}	2023
+	4.63	Exact match	zh	MCWQ	\cite{TAN2023120721}	2023
+	6.2	Exact match	he	MCWQ	\cite{TAN2023120721}	2023
+	9.1	Exact match	kn	MCWQ	\cite{TAN2023120721}	2023
+XSemPLR (monolingual few-shot Codex)	4.48	Exact match	en	MCWQ	\cite{TAN2023120721}	2023
+	3.86	Exact match	zh	MCWQ	\cite{TAN2023120721}	2023
+	2.47	Exact match	he	MCWQ	\cite{TAN2023120721}	2023
+	0.93	Exact match	kn	MCWQ	\cite{TAN2023120721}	2023
+XSemPLR (monolingual few-shot BLOOM)	0	Exact match	en	MCWQ	\cite{TAN2023120721}	2023
+	0	Exact match	zh	MCWQ	\cite{TAN2023120721}	2023
+	0	Exact match	he	MCWQ	\cite{TAN2023120721}	2023
+	0	Exact match	kn	MCWQ	\cite{TAN2023120721}	2023
+XSemPLR (multilingual XLM-R+PTR)	32.72	Exact match	en	MCWQ	\cite{TAN2023120721}	2023
+	31.94	Exact match	zh	MCWQ	\cite{TAN2023120721}	2023
+	28.86	Exact match	he	MCWQ	\cite{TAN2023120721}	2023
+	29.63	Exact match	kn	MCWQ	\cite{TAN2023120721}	2023
+XSemPLR (multilingual mT5)	29.94	Exact match	en	MCWQ	\cite{TAN2023120721}	2023
+	28.24	Exact match	zh	MCWQ	\cite{TAN2023120721}	2023
+	28.55	Exact match	he	MCWQ	\cite{TAN2023120721}	2023
+	27.31	Exact match	kn	MCWQ	\cite{TAN2023120721}	2023
+XSemPLR (Cross-lingual Zero-Shot XLM-R+PTR)	2.16	Exact match	zh	MCWQ	\cite{TAN2023120721}	2023
+	5.56	Exact match	he	MCWQ	\cite{TAN2023120721}	2023
+	5.09	Exact match	kn	MCWQ	\cite{TAN2023120721}	2023
+XSemPLR (Cross-lingual Zero-Shot mT5)	1.39	Exact match	zh	MCWQ	\cite{TAN2023120721}	2023
+	5.86	Exact match	he	MCWQ	\cite{TAN2023120721}	2023
+	4.94	Exact match	kn	MCWQ	\cite{TAN2023120721}	2023
+XSemPLR (Cross-lingual Zero-Shot Codex)	3.55	Exact match	zh	MCWQ	\cite{TAN2023120721}	2023
+	1.54	Exact match	he	MCWQ	\cite{TAN2023120721}	2023
+	1.39	Exact match	kn	MCWQ	\cite{TAN2023120721}	2023
+XSemPLR (Cross-lingual Zero-Shot BLOOM)	0	Exact match	zh	MCWQ	\cite{TAN2023120721}	2023
+	0	Exact match	he	MCWQ	\cite{TAN2023120721}	2023
+	0	Exact match	kn	MCWQ	\cite{TAN2023120721}	2023
+XSemPLR (Cross-lingual Zero-Shot  XLM-R+PTR)	14.35	Exact match	zh	MCWQ	\cite{TAN2023120721}	2023
+	22.53	Exact match	he	MCWQ	\cite{TAN2023120721}	2023
+	23.61	Exact match	kn	MCWQ	\cite{TAN2023120721}	2023
+XSemPLR (Cross-lingual Zero-Shot  XLM-R+PTR)	29.48	Exact match	zh	MCWQ	\cite{TAN2023120721}	2023
+	26.85	Exact match	he	MCWQ	\cite{TAN2023120721}	2023
+	18.21	Exact match	kn	MCWQ	\cite{TAN2023120721}	2023
