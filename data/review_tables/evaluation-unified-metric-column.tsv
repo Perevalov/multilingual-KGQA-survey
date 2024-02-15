@@ -200,3 +200,15 @@ XSemPLR (Cross-lingual Zero-Shot  XLM-R+PTR)	14.35	Exact match	zh	MCWQ	\cite{TAN
 XSemPLR (Cross-lingual Zero-Shot  XLM-R+PTR)	29.48	Exact match	zh	MCWQ	\cite{TAN2023120721}	2023
 	26.85	Exact match	he	MCWQ	\cite{TAN2023120721}	2023
 	18.21	Exact match	kn	MCWQ	\cite{TAN2023120721}	2023
+Lingua Franca Libre MT	27.10	F1 Macro	de	QALD-9-plus	\cite{linguaFranca}	2023
+	38.60	F1 Macro	fr	MCWQ	\cite{linguaFranca}	2023
+	22.7	F1 Macro	ru	MCWQ	\cite{linguaFranca}	2023
+Lingua Franca NLLB MT	26.30	F1 Macro	de	QALD-9-plus	\cite{linguaFranca}	2023
+	35.30	F1 Macro	fr	MCWQ	\cite{linguaFranca}	2023
+	24.30	F1 Macro	ru	MCWQ	\cite{linguaFranca}	2023
+Lingua Franca MBART MT	26.20	F1 Macro	de	QALD-9-plus	\cite{linguaFranca}	2023
+	37.90	F1 Macro	fr	MCWQ	\cite{linguaFranca}	2023
+	24.10	F1 Macro	ru	MCWQ	\cite{linguaFranca}	2023
+Lingua Franca Opus MT	25.70	F1 Macro	de	QALD-9-plus	\cite{linguaFranca}	2023
+	33.50	F1 Macro	fr	MCWQ	\cite{linguaFranca}	2023
+	26.00	F1 Macro	ru	MCWQ	\cite{linguaFranca}	2023
