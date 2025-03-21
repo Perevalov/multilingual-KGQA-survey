@@ -19,6 +19,7 @@ en	Tiresias	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
 en	DeepPavlov 2023	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
 en	XSemPLR	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
 en	CLRN	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
+en	MST5	Indo-European	Germanic	North Sea Germanic	Alphabetical	Latin	English
 de	QALL-ME	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
 de	N. Aggarwal	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
 de	AMUSE	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
@@ -30,6 +31,7 @@ de	QAnswer	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
 de	Y. Zhou	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
 de	A. Perevalov	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
 de	Lingua Franca	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
+de	MST5	Indo-European	Germanic	Elbe Germanic	Alphabetical	Latin	German
 es	QALL-ME	Indo-European	Italic	Romance	Alphabetical	Latin	Spanish
 es	UTQA	Indo-European	Italic	Romance	Alphabetical	Latin	Spanish
 es	AMUSE	Indo-European	Italic	Romance	Alphabetical	Latin	Spanish
@@ -37,6 +39,7 @@ es	UDepLambda	Indo-European	Italic	Romance	Alphabetical	Latin	Spanish
 es	WDAqua-core1	Indo-European	Italic	Romance	Alphabetical	Latin	Spanish
 es	QAnswer	Indo-European	Italic	Romance	Alphabetical	Latin	Spanish
 es	Y. Zhou	Indo-European	Italic	Romance	Alphabetical	Latin	Spanish
+es	MST5	Indo-European	Italic	Romance	Alphabetical	Latin	Spanish
 it	QALL-ME	Indo-European	Italic	Romance	Alphabetical	Latin	Italian
 it	WDAqua-core0	Indo-European	Italic	Romance	Alphabetical	Latin	Italian
 it	MuG-QA	Indo-European	Italic	Romance	Alphabetical	Latin	Italian
@@ -51,8 +54,9 @@ fr	LAMA	Indo-European	Italic	Romance	Alphabetical	Latin	French
 fr	Platypus	Indo-European	Italic	Romance	Alphabetical	Latin	French
 fr	QAnswer	Indo-European	Italic	Romance	Alphabetical	Latin	French
 fr	A. Perevalov	Indo-European	Italic	Romance	Alphabetical	Latin	French
-fr	Lingua Franca	Indo-European	Italic	Romance	Alphabetical	Latin	French
 fr	CLRN	Indo-European	Italic	Romance	Alphabetical	Latin	French
+fr	Lingua Franca	Indo-European	Italic	Romance	Alphabetical	Latin	French
+fr	MST5	Indo-European	Italic	Romance	Alphabetical	Latin	French
 cs	SWSNL	Indo-European	Balto-Slavic	West Slavic	Alphabetical	Latin	Czech
 fa	UTQA	Indo-European	Indo-Iranian	Western Iranian	Abjad	Persian	Persian
 fa	Y. Zhou	Indo-European	Indo-Iranian	Western Iranian	Abjad	Persian	Persian
@@ -62,18 +66,26 @@ ar	QAnswer	Afro-Asiatic	Semitic	Central Semitic	Abjad	Arabic	Arabic
 zh	QAnswer	Sino-Tibetan	Sinitic	Chinese	Logogram, Syllabary	Chinese	Chinese
 zh	XSemPLR	Sino-Tibetan	Sinitic	Chinese	Logogram, Syllabary	Chinese	Chinese
 zh	CLRN	Sino-Tibetan	Sinitic	Chinese	Logogram, Syllabary	Chinese	Chinese
+zh	MST5	Sino-Tibetan	Sinitic	Chinese	Logogram, Syllabary	Chinese	Chinese
 ru	DeepPavlov	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Russian
 ru	QAnswer	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Russian
 ru	A. Perevalov	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Russian
 ru	DeepPavlov 2023	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Russian
 ru	Lingua Franca	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Russian
+ru	MST5	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Russian
 ro	Y. Zhou	Indo-European	Italic	Romance	Alphabetical	Latin	Romanian
 hi	Y. Zhou	Indo-European	Indo-Iranian	Central 	Abugida	Indic	Hindi
 uk	A. Perevalov	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Ukrainian
+uk	MST5	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Ukrainian
 lt	A. Perevalov	Indo-European	Balto-Slavic	Eastern Baltic	Alphabetical	Latin	Lithuanian
+lt	MST5	Indo-European	Balto-Slavic	Eastern Baltic	Alphabetical	Latin	Lithuanian
 be	A. Perevalov	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Belarusian
+be	MST5	Indo-European	Balto-Slavic	East Slavic	Alphabetical	Cyrillic	Belarusian
 ba	A. Perevalov	Turkic	Common Turkic	North Kipchak	Alphabetical	Cyrillic	Bashkir
+ba	MST5	Turkic	Common Turkic	North Kipchak	Alphabetical	Cyrillic	Bashkir
 hy	A. Perevalov	Indo-European	Armenian	Armenian	Alphabetical	Armenian	Armenian
+hy	MST5	Indo-European	Armenian	Armenian	Alphabetical	Armenian	Armenian
 gr	Tiresias	Indo-European	Graeco-Phrygian	Greek	Alphabetical	Greek	Greek
 he	XSemPLR	Afro-Asiatic	Semitic	Central Semitic	Abjad	Hebrew	Hebrew
 kn	XSemPLR	Dravidian	Southern	Kannada–Badaga	Abugida	Kannada	Kannada
+ja	MST5	Japonic	Japanese	Japanese	Logogram, Syllabary	Kanji, Kana	Japanese
